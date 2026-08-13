@@ -1,0 +1,294 @@
+{
+  "items": [
+    {
+      "description": "160 connectors.",
+      "items": [],
+      "title": "Data and Analytics"
+    },
+    {
+      "description": "11 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Desktop Commander",
+          "description": "Local machine automation. Use case: File system operations, process management, system-level tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T14:56:32Z",
+            "owner": "wonderwhy-er",
+            "repo": "DesktopCommanderMCP",
+            "stars": 9312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows-MCP",
+          "description": "Windows OS automation and system control. Use case: Windows application automation, file management, system administration tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:35:01Z",
+            "owner": "CursorTouch",
+            "repo": "Windows-MCP",
+            "stars": 6736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-MCP",
+          "description": "Control Android devices. Use case: Android app testing, mobile automation workflows, device management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T06:38:43Z",
+            "owner": "CursorTouch",
+            "repo": "Android-MCP",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacOS-MCP",
+          "description": "Lightweight macOS desktop interaction. Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T01:42:00Z",
+            "owner": "CursorTouch",
+            "repo": "MacOS-MCP",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Desktop Automation"
+    },
+    {
+      "description": "76 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub MCP",
+          "description": "The official GitHub MCP server. Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:40:55Z",
+            "owner": "github",
+            "repo": "github-mcp-server",
+            "stars": 32203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Replicant MCP",
+          "description": "Android MCP server that lets AI assistants build APKs, control emulators, and automate UI testing. Use case: Ask Claude to build a debug APK, launch it in an emulator, and walk through a checkout flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T10:20:42Z",
+            "owner": "thecombatwombat",
+            "repo": "replicant-mcp",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KARP Inspector Lite",
+          "description": "Semantic codebase search. Use case: Understanding unfamiliar codebases, finding relevant code by meaning rather than keywords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-31T10:04:22Z",
+            "owner": "souldriver007",
+            "repo": "karp-inspector-lite",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Development Tools"
+    },
+    {
+      "description": "51 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Filesystem",
+          "description": "Local filesystem read and write. Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:41:59Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers",
+            "stars": 89519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docling MCP",
+          "description": "Document processing and extraction. Use case: Parsing PDFs, extracting structured data from documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:48:51Z",
+            "owner": "docling-project",
+            "repo": "docling",
+            "stars": 64696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDF Viewer",
+          "description": "Render PDFs from URLs. Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T17:17:51Z",
+            "owner": "anthropics",
+            "repo": "claude-quickstarts",
+            "stars": 17428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdf-viewer",
+          "description": "Read and interact with PDFs. Use case: Extracting text from PDFs, answering questions about PDF content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T17:17:51Z",
+            "owner": "anthropics",
+            "repo": "claude-quickstarts",
+            "stars": 17428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerPoint (By Anthropic)",
+          "description": "Control PowerPoint with AppleScript. Use case: Creating and modifying presentations programmatically on macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T17:17:51Z",
+            "owner": "anthropics",
+            "repo": "claude-quickstarts",
+            "stars": 17428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Word (By Anthropic)",
+          "description": "Control Microsoft Word with AppleScript. Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T17:17:51Z",
+            "owner": "anthropics",
+            "repo": "claude-quickstarts",
+            "stars": 17428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDF Tools - Fill, Sign, Merge, Split, Extract",
+          "description": "Local PDF workflow extension for Claude Desktop. Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:44:58Z",
+            "owner": "Open-Document-Alliance",
+            "repo": "PDF-Tools",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Documents and Files"
+    },
+    {
+      "description": "199 connectors.",
+      "items": [],
+      "title": "Finance and Trading"
+    },
+    {
+      "description": "241 connectors.",
+      "items": [],
+      "title": "Marketing and Sales"
+    },
+    {
+      "description": "Every link above has been checked against the live page — a URL ships only when the page content confirms the product. These catalog entries are real (each appears in the in-app connectors catalog) but no vendor URL could be confirmed for them yet, so they are listed here without a link rather than with a guessed or generic one. If you are the vendor, or know the canonical product page, open an issue or PR with the URL — the entry graduates to its category once the page confirms the product.",
+      "items": [],
+      "title": "Held for Verification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-llm-apps",
+          "description": "LLM-powered applications across providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:26:18Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 132401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mcp-servers",
+          "description": "Model Context Protocol servers powering many of the connectors above.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-chatgpt-apps",
+          "description": "Companion list cataloging apps in the ChatGPT directory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-02T16:24:31Z",
+            "owner": "rdmgator12",
+            "repo": "awesome-chatgpt-apps",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Related"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:40:35.585Z",
+    "original_repository": "rdmgator12/awesome-claude-connectors",
+    "original_repository_sha": "8d82f1ffa0d7293c528fd5c1be2a099eba94da98",
+    "enhanced_repository": "enhansome/enhansome-claude-connectors",
+    "enhanced_repository_description": null,
+    "title": "Awesome List for Claude Connectors with stars"
+  }
+}
