@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T07:26:11Z",
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9332
+            "stars": 9336
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:35:37Z",
+            "last_commit": "2026-08-16T12:15:02Z",
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6756
+            "stars": 6761
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-07-01T06:38:43Z",
             "owner": "CursorTouch",
             "repo": "Android-MCP",
-            "stars": 812
+            "stars": 813
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:39:44Z",
+            "last_commit": "2026-08-16T12:15:58Z",
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 147
+            "stars": 148
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T22:44:12Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32283
+            "stars": 32296
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-10T02:41:59Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89604
+            "stars": 89617
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-15T10:13:09Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 64804
+            "stars": 64876
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17444
+            "stars": 17449
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17444
+            "stars": 17449
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17444
+            "stars": 17449
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17444
+            "stars": 17449
           }
         },
         {
@@ -210,7 +210,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T22:42:02Z",
+            "last_commit": "2026-08-16T14:15:12Z",
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
             "stars": 151
@@ -245,10 +245,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:45:25Z",
+            "last_commit": "2026-08-17T02:42:50Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 132797
+            "stars": 132921
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-08-03T03:09:55Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92407
+            "stars": 92460
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:39:47.165Z",
+    "last_updated": "2026-08-17T07:58:15.692Z",
     "original_repository": "rdmgator12/awesome-claude-connectors",
     "original_repository_sha": "8d82f1ffa0d7293c528fd5c1be2a099eba94da98",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
