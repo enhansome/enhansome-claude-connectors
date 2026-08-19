@@ -602,9 +602,9 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 11 connectors.
 
-* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,347 | 🐛 201 | 🌐 TypeScript | 📅 2026-08-19 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
-* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,774 | 🐛 19 | 🌐 Python | 📅 2026-08-18 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
-* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 819 | 🐛 9 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
+* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,349 | 🐛 201 | 🌐 TypeScript | 📅 2026-08-19 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
+* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,778 | 🐛 19 | 🌐 Python | 📅 2026-08-18 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
+* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 818 | 🐛 9 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
 * [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 150 | 🐛 1 | 🌐 Python | 📅 2026-08-18 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
 * [Asteroid](https://asteroid.ai) - Builds and runs agentic, repeatable browser and computer-use workflows. *Use case: Automating portal workflows, running repeatable data-entry tasks, scaling browser-based back-office work.*
 * [Control Chrome](https://chromedevtools.github.io/devtools-protocol/) - Chrome tab and navigation control. *Use case: Browser automation, tab management, web scraping from Chrome.*
@@ -618,7 +618,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 76 connectors.
 
-* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,347 | 🐛 369 | 🌐 Go | 📅 2026-08-18 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
+* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,349 | 🐛 354 | 🌐 Go | 📅 2026-08-19 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
 * [Replicant MCP](https://github.com/thecombatwombat/replicant-mcp) ⭐ 17 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-26 - Android MCP server that lets AI assistants build APKs, control emulators, and automate UI testing. *Use case: Ask Claude to build a debug APK, launch it in an emulator, and walk through a checkout flow.*
 * [KARP Inspector Lite](https://github.com/souldriver007/karp-inspector-lite) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Semantic codebase search. *Use case: Understanding unfamiliar codebases, finding relevant code by meaning rather than keywords.*
 * [3Min API](https://3minapi.com) **`C`** - Create a working REST API endpoint without writing backend code, then test it, search what comes in, and share access with partners — all from chat. *Use case: Spinning up an endpoint to collect signups for a landing page, checking which requests came in overnight, giving a partner access to the data.*
@@ -699,8 +699,8 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 51 connectors.
 
-* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 89,678 | 🐛 519 | 🌐 TypeScript | 📅 2026-08-18 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
-* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 65,127 | 🐛 980 | 🌐 Python | 📅 2026-08-18 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
+* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 89,684 | 🐛 518 | 🌐 TypeScript | 📅 2026-08-18 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
+* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 65,150 | 🐛 980 | 🌐 Python | 📅 2026-08-19 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
 * [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,461 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-06 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
 * [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,461 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-06 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
 * [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,461 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-06 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
@@ -1594,7 +1594,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Dex Personal CRM](https://getdex.com) - Manage Dex personal CRM contacts. *Use case: Logging a conversation with a contact, setting a follow-up reminder, reviewing relationship history.*
 * [Dovetail](https://dovetail.com) - Customer feedback and research repository. *Use case: User research synthesis, customer interview analysis, feedback theming and decision tracking.*
 * [Drafts](https://getdrafts.com) - Access Drafts on macOS. *Use case: Quick text capture, processing notes into actions, markdown drafting.*
-* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-08-19 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
+* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-08-19 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
 * [Fleks Workforce Management](https://www.fleks.works) **`C`** - Access and manage workforce planning, scheduling, recruitment, and operational data directly from Fleks. *Use case: Checking next week's shift schedule for gaps, reviewing a recruitment pipeline before a hiring decision.*
 * [FormHug AI](https://formhug.ai) **`C`** - Create forms, surveys, quizzes, and registrations with Claude. *Use case: Building a registration form for an upcoming event, putting together a quick quiz for a training session.*
 * [Geekbot](https://geekbot.com) **`C`** - Run standups and polls. *Use case: Kicking off a Monday standup for the team, running a quick poll to pick a meeting time.*
@@ -2024,8 +2024,8 @@ Every link above has been checked against the live page — a URL ships only whe
 
 ## Related
 
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 133,164 | 🐛 14 | 🌐 Python | 📅 2026-08-17 - LLM-powered applications across providers.
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,553 | 🐛 3,175 | 📅 2026-08-17 - Model Context Protocol servers powering many of the connectors above.
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 133,200 | 🐛 14 | 🌐 Python | 📅 2026-08-17 - LLM-powered applications across providers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,564 | 🐛 3,187 | 📅 2026-08-17 - Model Context Protocol servers powering many of the connectors above.
 * [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 12 | 🐛 1 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
 
 ***
