@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "160 connectors.",
-      "items": [],
-      "title": "Data and Analytics"
-    },
-    {
       "description": "11 connectors.",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 898345892,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T07:26:11Z",
+            "last_commit": "2026-08-19T06:05:17Z",
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9339
+            "stars": 9347
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 982517950,
             "language": "Python",
             "last_commit": "2026-08-18T05:42:14Z",
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6766
+            "stars": 6774
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1000066977,
             "language": "Python",
             "last_commit": "2026-07-01T06:38:43Z",
             "owner": "CursorTouch",
             "repo": "Android-MCP",
-            "stars": 816
+            "stars": 819
           }
         },
         {
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1190321719,
             "language": "Python",
-            "last_commit": "2026-08-16T12:15:58Z",
+            "last_commit": "2026-08-18T17:11:20Z",
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 149
+            "stars": 150
           }
         }
       ],
@@ -77,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-17T18:36:38Z",
+            "last_commit": "2026-08-18T22:04:55Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32324
+            "stars": 32347
           }
         },
         {
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138722060,
             "language": "TypeScript",
             "last_commit": "2026-07-26T10:20:42Z",
             "owner": "thecombatwombat",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162738079,
             "language": "JavaScript",
             "last_commit": "2026-03-31T10:04:22Z",
             "owner": "souldriver007",
@@ -125,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890668799,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T02:41:59Z",
+            "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89650
+            "stars": 89678
           }
         },
         {
@@ -139,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-18T07:32:05Z",
+            "last_commit": "2026-08-18T16:22:05Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 64994
+            "stars": 65127
           }
         },
         {
@@ -153,11 +157,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849553306,
             "language": "TypeScript",
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17456
+            "stars": 17461
           }
         },
         {
@@ -167,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849553306,
             "language": "TypeScript",
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17456
+            "stars": 17461
           }
         },
         {
@@ -181,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849553306,
             "language": "TypeScript",
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17456
+            "stars": 17461
           }
         },
         {
@@ -195,11 +202,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849553306,
             "language": "TypeScript",
             "last_commit": "2026-08-06T17:17:51Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17456
+            "stars": 17461
           }
         },
         {
@@ -209,8 +217,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1009311431,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T14:15:12Z",
+            "last_commit": "2026-08-19T05:30:30Z",
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
             "stars": 151
@@ -220,22 +229,7 @@
       "title": "Documents and Files"
     },
     {
-      "description": "199 connectors.",
-      "items": [],
-      "title": "Finance and Trading"
-    },
-    {
-      "description": "241 connectors.",
-      "items": [],
-      "title": "Marketing and Sales"
-    },
-    {
-      "description": "Every link above has been checked against the live page — a URL ships only when the page content confirms the product. These catalog entries are real (each appears in the in-app connectors catalog) but no vendor URL could be confirmed for them yet, so they are listed here without a link rather than with a guessed or generic one. If you are the vendor, or know the canonical product page, open an issue or PR with the URL — the entry graduates to its category once the page confirms the product.",
-      "items": [],
-      "title": "Held for Verification"
-    },
-    {
-      "description": "",
+      "description": "To the extent possible under law, Ralph Martello has waived all copyright and related or neighboring rights to this work.",
       "items": [
         {
           "node_type": "item",
@@ -244,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 793375104,
             "language": "Python",
             "last_commit": "2026-08-17T02:42:50Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 133036
+            "stars": 133164
           }
         },
         {
@@ -258,11 +253,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92502
+            "stars": 92553
           }
         },
         {
@@ -272,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1228889804,
             "language": null,
             "last_commit": "2026-07-02T16:24:31Z",
             "owner": "rdmgator12",
@@ -284,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:49:21.240Z",
+    "last_updated": "2026-08-19T07:49:46.675Z",
     "original_repository": "rdmgator12/awesome-claude-connectors",
     "original_repository_sha": "8d82f1ffa0d7293c528fd5c1be2a099eba94da98",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
