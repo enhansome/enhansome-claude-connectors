@@ -602,10 +602,10 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 11 connectors.
 
-* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,349 | 🐛 201 | 🌐 TypeScript | 📅 2026-08-19 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
-* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,778 | 🐛 19 | 🌐 Python | 📅 2026-08-18 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
-* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 818 | 🐛 9 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
-* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 150 | 🐛 1 | 🌐 Python | 📅 2026-08-18 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
+* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,360 | 🐛 211 | 🌐 TypeScript | 📅 2026-08-19 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
+* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,781 | 🐛 19 | 🌐 Python | 📅 2026-08-18 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
+* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 820 | 🐛 9 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
+* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 151 | 🐛 1 | 🌐 Python | 📅 2026-08-18 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
 * [Asteroid](https://asteroid.ai) - Builds and runs agentic, repeatable browser and computer-use workflows. *Use case: Automating portal workflows, running repeatable data-entry tasks, scaling browser-based back-office work.*
 * [Control Chrome](https://chromedevtools.github.io/devtools-protocol/) - Chrome tab and navigation control. *Use case: Browser automation, tab management, web scraping from Chrome.*
 * [Control your Mac](https://support.apple.com/guide/terminal/use-applescript-apd44b0e5b2-3b9b-46de-8bfc-4741be13ef5b) - Execute AppleScript to automate macOS. *Use case: System-level Mac automation, app control, file management via AppleScript.*
@@ -618,7 +618,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 76 connectors.
 
-* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,349 | 🐛 354 | 🌐 Go | 📅 2026-08-19 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
+* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,374 | 🐛 344 | 🌐 Go | 📅 2026-08-19 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
 * [Replicant MCP](https://github.com/thecombatwombat/replicant-mcp) ⭐ 17 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-26 - Android MCP server that lets AI assistants build APKs, control emulators, and automate UI testing. *Use case: Ask Claude to build a debug APK, launch it in an emulator, and walk through a checkout flow.*
 * [KARP Inspector Lite](https://github.com/souldriver007/karp-inspector-lite) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Semantic codebase search. *Use case: Understanding unfamiliar codebases, finding relevant code by meaning rather than keywords.*
 * [3Min API](https://3minapi.com) **`C`** - Create a working REST API endpoint without writing backend code, then test it, search what comes in, and share access with partners — all from chat. *Use case: Spinning up an endpoint to collect signups for a landing page, checking which requests came in overnight, giving a partner access to the data.*
@@ -649,7 +649,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [GitLab](https://about.gitlab.com) - DevSecOps platform for the entire software lifecycle. *Use case: Source code management, CI/CD pipelines, merge requests, issue tracking, security scanning.*
 * [GraphOS MCP Tools](https://www.apollographql.com) - Apollo GraphQL documentation and best practices. *Use case: GraphQL schema design guidance, Apollo Connectors specification lookup, agentic GraphQL development.*
 * [GrowthBook](https://www.growthbook.io) - Feature flags and experiments. *Use case: A/B testing, gradual rollouts, experiment analysis.*
-* [Harness](https://app.harness.io) - Build, ship, and secure apps on the Harness Platform. *Use case: End-to-end software delivery spanning CI, CD, feature flags, IaC, cloud cost, chaos engineering, and security testing in a single workspace.*
+* [Harness](https://www.harness.io) - Build, ship, and secure apps on the Harness Platform. *Use case: End-to-end software delivery spanning CI, CD, feature flags, IaC, cloud cost, chaos engineering, and security testing in a single workspace.*
 * [Infobip Documentation](https://www.infobip.com/docs) **`C`** - Search and browse Infobip docs from Claude. *Use case: Looking up documentation for a specific error message, browsing the docs before starting an integration.*
 * [Kapture Browser Automation](https://kapture.dev) - Browser control via DevTools. *Use case: Browser automation using Chrome DevTools Protocol.*
 * [Keenable Web Search](https://keenable.ai) **`C`** - Live web search and clean-markdown page fetch for AI agents, keyless by default. *Use case: Pulling the current text of a competitor's pricing page, searching for a recent news story, without configuring an API key first.*
@@ -699,13 +699,13 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 51 connectors.
 
-* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 89,684 | 🐛 518 | 🌐 TypeScript | 📅 2026-08-18 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
-* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 65,150 | 🐛 980 | 🌐 Python | 📅 2026-08-19 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
-* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,461 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-06 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
-* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,461 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-06 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
-* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,461 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-06 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
-* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,461 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-06 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
-* [PDF Tools - Fill, Sign, Merge, Split, Extract](https://github.com/Open-Document-Alliance/PDF-Tools) ⭐ 151 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-19 - Local PDF workflow extension for Claude Desktop. *Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.*
+* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 89,703 | 🐛 523 | 🌐 TypeScript | 📅 2026-08-20 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
+* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 65,267 | 🐛 983 | 🌐 Python | 📅 2026-08-19 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
+* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,469 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-19 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
+* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,469 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-19 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
+* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,469 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-19 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
+* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,469 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-19 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
+* [PDF Tools - Fill, Sign, Merge, Split, Extract](https://github.com/Open-Document-Alliance/PDF-Tools) ⭐ 151 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-19 - Local PDF workflow extension for Claude Desktop. *Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.*
 * [Avanquest PDF API Extension](https://developers.avanquest.com/products/pdf-api) - Scalable PDF processing API. *Use case: PDF conversion, merging, compression, splitting, and document-processing automation.*
 * [Box](https://www.box.com) - Enterprise cloud content management and file sharing. *Use case: Document collaboration, secure file sharing, content governance, workflow automation.*
 * [ChangeThisFile](https://changethisfile.com) **`C`** - Free online file converter supporting over 690 conversion routes across images, documents, video, audio, and archive formats, with no account required. *Use case: Convert an uploaded PDF invoice into a DOCX file without creating an account.*
@@ -732,7 +732,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [NetDocuments](https://www.netdocuments.com) - Securely access your documents in NetDocuments. *Use case: Cloud DMS for law firms and regulated industries — matter-scoped document search, version control, and governance.*
 * [NetExplorer](https://www.netexplorer.fr) **`C`** - Connect your NetExplorer platform to Claude. *Use case: Bringing a connected platform's data into the conversation without switching tools.*
 * [Nutrient DWS](https://www.nutrient.io/api/processor-api/) - Hosted document processing — generation, conversion, OCR, redaction, signatures. *Use case: HTML/Office-to-PDF conversion, AI redaction at scale, PDF form filling, watermarking, archive-grade PDF/A workflows.*
-* [Nutrient PDF Editor](https://www.nutrient.io/products/pdf-editor) - View, annotate, fill forms, and redact PDFs directly from Claude. *Use case: Interactive PDF editing, form completion, redaction, and annotation without leaving the conversation.*
+* [Nutrient PDF Editor](https://www.nutrient.io) - View, annotate, fill forms, and redact PDFs directly from Claude. *Use case: Interactive PDF editing, form completion, redaction, and annotation without leaving the conversation.*
 * [PandaDoc](https://www.pandadoc.com) - Create, send, sign, and track documents. *Use case: Proposal and quote generation, e-signature workflows, document analytics across the sales lifecycle.*
 * [PDF.net](https://pdf.net) **`C`** - Generate and edit pdfs. *Use case: Turning a set of notes into a formatted PDF, editing the text on an existing PDF contract.*
 * [PDF4me](https://pdf4me.com) **`C`** - PDF done simple and online! *Use case: Handling a PDF task without installing separate software.*
@@ -791,7 +791,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [FreqBlog Music Metadata](https://freqblog.com) **`C`** - BPM, key & audio features for real tracks. *Use case: Checking the BPM and key of a track before building a DJ set, comparing audio features between two songs for a mashup.*
 * [HANKOOKILBO MCP](https://www.hankookilbo.com) - 한국일보의 주요 뉴스, 섹션별 기사, 기사 검색, 운세 정보 메타데이터를 제공하는 MCP 서버입니다. *Use case: 오늘의 경제 섹션 기사를 확인하기, 특정 키워드로 지난주 기사를 검색하기, 이번 달 운세 정보를 확인하기.*
 * [Melon](https://www.melon.com) - Music charts and data. *Use case: Music industry analytics, charting data, trend tracking.*
-* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,732 | 🐛 197 | 🌐 TypeScript | 📅 2026-08-12 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
+* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,733 | 🐛 198 | 🌐 TypeScript | 📅 2026-08-12 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
 * [Splice](https://splice.com) - Royalty-free sample library, virtual instruments, and music production tools. *Use case: Searching the catalog, building sound stacks, integrating samples into music production workflows.*
 * [Spotify](https://www.spotify.com) - Control Spotify playback. *Use case: Music control, playlist management, listening history.*
 * [withPICA](https://withpica.com) **`C`** - Manage your music catalog. *Use case: Checking a specific song's entry in a catalog, updating its details before release.*
@@ -1555,7 +1555,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Kastra](https://kastra.ai) - Execution-governance and audit-trail layer for Claude Code actions. *Use case: Reviewing an agent's action history, auditing automated changes before they ship, enforcing authorization policy on agent execution.*
 * [Lightrun](https://lightrun.com) - Connect AI assistants to live production runtime data including snapshots, call stacks, and metrics. *Use case: Debugging a production issue with a live snapshot, inspecting a call stack without redeploying, pulling runtime metrics into a session.*
 * [LogRocket](https://logrocket.com) - A session replay and product analytics platform that lets Claude query LogRocket sessions, metrics, and issues. *Use case: Investigating a user-reported checkout bug by watching the relevant session replay and identifying the root cause.*
-* [MCP Instana Server](https://www.instana.com) - Observability platform. *Use case: Auto-instrumented application monitoring, infrastructure visibility.*
+* [MCP Instana Server](https://www.ibm.com/products/instana) - Observability platform. *Use case: Auto-instrumented application monitoring, infrastructure visibility.*
 * [OpenReplay MCP](https://openreplay.com) - Session replay and product analytics. *Use case: Reviewing user session replays, debugging frontend issues, analyzing product-usage charts.*
 * [Orb](https://orb.net) **`C`** - Real-time and historical network and internet experience insights. *Use case: Checking whether a recent network outage in a region shows up in historical trend data.*
 * [PagerDuty](https://www.pagerduty.com) - Incidents and on-call management. *Use case: Incident response, on-call scheduling, alerting workflows.*
@@ -1594,7 +1594,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Dex Personal CRM](https://getdex.com) - Manage Dex personal CRM contacts. *Use case: Logging a conversation with a contact, setting a follow-up reminder, reviewing relationship history.*
 * [Dovetail](https://dovetail.com) - Customer feedback and research repository. *Use case: User research synthesis, customer interview analysis, feedback theming and decision tracking.*
 * [Drafts](https://getdrafts.com) - Access Drafts on macOS. *Use case: Quick text capture, processing notes into actions, markdown drafting.*
-* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-08-19 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
+* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 17 | 🐛 4 | 🌐 Python | 📅 2026-08-20 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
 * [Fleks Workforce Management](https://www.fleks.works) **`C`** - Access and manage workforce planning, scheduling, recruitment, and operational data directly from Fleks. *Use case: Checking next week's shift schedule for gaps, reviewing a recruitment pipeline before a hiring decision.*
 * [FormHug AI](https://formhug.ai) **`C`** - Create forms, surveys, quizzes, and registrations with Claude. *Use case: Building a registration form for an upcoming event, putting together a quick quiz for a training session.*
 * [Geekbot](https://geekbot.com) **`C`** - Run standups and polls. *Use case: Kicking off a Monday standup for the team, running a quick poll to pick a meeting time.*
@@ -1676,7 +1676,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Aphex](https://www.aphex.co) **`C`** - Connect your AI tool to your construction delivery data in Aphex — ask questions and draft reports grounded in the live site record. *Use case: Checking whether a delivery scheduled for this morning arrived, drafting a report on a delay for the site record.*
 * [Asana](https://asana.com) - Tasks, projects, and goals. *Use case: Team task management, project planning, goal tracking, workflow automation.*
 * [Astravue App](https://astravue.com) **`C`** - Manage projects, tasks, and team workload in one place. *Use case: Checking whether a teammate is overloaded before assigning a new task, reviewing project status across the team.*
-* [Backlog](https://nulab.com/services/backlog/) - Nulab Backlog project management. *Use case: Issue tracking, Git/SVN repository management, wiki documentation, and Gantt-chart project planning within Nulab's Backlog platform.*
+* [Backlog](https://nulab.com/backlog/) - Nulab Backlog project management. *Use case: Issue tracking, Git/SVN repository management, wiki documentation, and Gantt-chart project planning within Nulab's Backlog platform.*
 * [BasicOps](https://www.basicops.com) **`C`** - Manage BasicOps projects, tasks, notes, messages, files, and time tracking — create, update, and query your workspace directly from Claude. *Use case: Updating a task's due date, checking a file attached to a project, logging time spent on a client call.*
 * [ClickUp](https://clickup.com) - All-in-one project and task management platform. *Use case: Team task tracking, time management, document collaboration, sprint planning.*
 * [Constructable](https://constructable.ai) **`C`** - Manage construction projects. *Use case: Checking the status of a construction project before a client walkthrough.*
@@ -2024,9 +2024,9 @@ Every link above has been checked against the live page — a URL ships only whe
 
 ## Related
 
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 133,200 | 🐛 14 | 🌐 Python | 📅 2026-08-17 - LLM-powered applications across providers.
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,564 | 🐛 3,187 | 📅 2026-08-17 - Model Context Protocol servers powering many of the connectors above.
-* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 12 | 🐛 1 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 133,305 | 🐛 15 | 🌐 Python | 📅 2026-08-17 - LLM-powered applications across providers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,593 | 🐛 3,228 | 📅 2026-08-17 - Model Context Protocol servers powering many of the connectors above.
+* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 13 | 🐛 1 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
 
 ***
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Ralph Martello](https://github.com/rdmgator12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
