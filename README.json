@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "description": "160 connectors.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Metabase (Unofficial — Community)",
+              "description": "Community MCP server for Metabase BI data access. Use case: Run SQL queries, execute saved cards, browse dashboards and databases, optimize token usage with caching.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1019100117,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T19:54:38Z",
+                "owner": "jerichosequitin",
+                "repo": "metabase-mcp",
+                "stars": 87
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Business Intelligence and Dashboards"
+        }
+      ],
+      "title": "Data and Analytics"
+    },
+    {
+      "description": "61 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alpix",
+          "description": "Draw pixel art on a shared canvas. Use case: Sketching a pixel art mascot together with someone else on the same canvas in real time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1225763155,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T08:09:03Z",
+            "owner": "alpic-ai",
+            "repo": "alpix",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Design and Creative"
+    },
+    {
       "description": "11 connectors.",
       "items": [
         {
@@ -78,10 +127,10 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-21T19:33:51Z",
+            "last_commit": "2026-08-24T14:26:46Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32462
+            "stars": 32466
           }
         },
         {
@@ -132,7 +181,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89819
+            "stars": 89830
           }
         },
         {
@@ -144,10 +193,10 @@
             "archived": false,
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-24T07:23:40Z",
+            "last_commit": "2026-08-24T14:14:53Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65457
+            "stars": 65477
           }
         },
         {
@@ -219,7 +268,7 @@
             "archived": false,
             "id": 1009311431,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T07:22:26Z",
+            "last_commit": "2026-08-24T13:35:40Z",
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
             "stars": 151
@@ -227,6 +276,90 @@
         }
       ],
       "title": "Documents and Files"
+    },
+    {
+      "description": "14 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Play Sheet Music",
+          "description": "Generate and play sheet music. Use case: Music composition, MIDI playback, music theory exploration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101234405,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:04:55Z",
+            "owner": "modelcontextprotocol",
+            "repo": "ext-apps",
+            "stars": 2758
+          }
+        }
+      ],
+      "title": "Entertainment"
+    },
+    {
+      "description": "54 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ClinicalTrials.gov Explorer (by BLEN)",
+          "description": "Search & analyze 500K+ clinical trials with Claude. Use case: Checking which trials are recruiting for a specific condition, comparing eligibility criteria across two trials, finding the sponsor of a trial mentioned in a paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1211903251,
+            "language": "TypeScript",
+            "last_commit": "2026-04-26T01:26:07Z",
+            "owner": "blencorp",
+            "repo": "clinicaltrials-mcp-server",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Healthcare and Life Sciences"
+    },
+    {
+      "description": "95 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "estonian",
+          "description": "Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. Use case: Proofread and spell-check an Estonian-language email draft before sending it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232304276,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:52:20Z",
+            "owner": "silly-geese",
+            "repo": "estonian-mcp",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": "53 connectors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Saga — Project Tracker for AI Agents",
+          "description": "Jira-like project tracker for AI agents. Use case: Per-project task hierarchy and activity logging so agents keep track of multi-step work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1163521275,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T16:05:42Z",
+            "owner": "spranab",
+            "repo": "saga-mcp",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Project Management"
     },
     {
       "description": "To the extent possible under law, Ralph Martello has waived all copyright and related or neighboring rights to this work.",
@@ -243,7 +376,7 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 133816
+            "stars": 133878
           }
         },
         {
@@ -258,7 +391,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92732
+            "stars": 92740
           }
         },
         {
@@ -281,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:02:10.195Z",
+    "last_updated": "2026-08-24T14:41:43.491Z",
     "original_repository": "rdmgator12/awesome-claude-connectors",
     "original_repository_id": 1209861758,
     "original_repository_sha": "985c449747235e06eea8d575aa68e9b9bf8a2096",
