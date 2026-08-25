@@ -64,7 +64,7 @@
             "last_commit": "2026-08-21T12:12:40Z",
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9388
+            "stars": 9390
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-08-25T02:59:57Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32480
+            "stars": 32486
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89834
+            "stars": 89839
           }
         },
         {
@@ -193,10 +193,10 @@
             "archived": false,
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-24T18:32:39Z",
+            "last_commit": "2026-08-25T07:46:10Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65504
+            "stars": 65507
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-08-21T16:49:16Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17521
+            "stars": 17522
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-21T16:49:16Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17521
+            "stars": 17522
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-21T16:49:16Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17521
+            "stars": 17522
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-21T16:49:16Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17521
+            "stars": 17522
           }
         },
         {
@@ -331,7 +331,7 @@
             "archived": false,
             "id": 1232304276,
             "language": "Python",
-            "last_commit": "2026-08-24T06:52:20Z",
+            "last_commit": "2026-08-25T06:41:18Z",
             "owner": "silly-geese",
             "repo": "estonian-mcp",
             "stars": 17
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 133972
+            "stars": 133978
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92764
+            "stars": 92769
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:35:05.632Z",
+    "last_updated": "2026-08-25T07:54:02.266Z",
     "original_repository": "rdmgator12/awesome-claude-connectors",
     "original_repository_id": 1209861758,
     "original_repository_sha": "985c449747235e06eea8d575aa68e9b9bf8a2096",
