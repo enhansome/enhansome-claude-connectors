@@ -76,10 +76,10 @@
             "archived": false,
             "id": 982517950,
             "language": "Python",
-            "last_commit": "2026-08-22T10:39:03Z",
+            "last_commit": "2026-08-25T01:28:23Z",
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6808
+            "stars": 6815
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2026-07-01T06:38:43Z",
             "owner": "CursorTouch",
             "repo": "Android-MCP",
-            "stars": 819
+            "stars": 821
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-18T17:11:20Z",
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 156
+            "stars": 157
           }
         }
       ],
@@ -127,10 +127,10 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-24T14:26:46Z",
+            "last_commit": "2026-08-25T02:59:57Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32466
+            "stars": 32480
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89830
+            "stars": 89834
           }
         },
         {
@@ -193,10 +193,10 @@
             "archived": false,
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-24T14:14:53Z",
+            "last_commit": "2026-08-24T18:32:39Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65477
+            "stars": 65504
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2026-08-12T15:04:55Z",
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2758
+            "stars": 2759
           }
         }
       ],
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 133878
+            "stars": 133972
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92740
+            "stars": 92764
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:41:43.491Z",
+    "last_updated": "2026-08-25T06:35:05.632Z",
     "original_repository": "rdmgator12/awesome-claude-connectors",
     "original_repository_id": 1209861758,
     "original_repository_sha": "985c449747235e06eea8d575aa68e9b9bf8a2096",
