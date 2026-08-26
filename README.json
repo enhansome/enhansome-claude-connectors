@@ -61,10 +61,10 @@
             "archived": false,
             "id": 898345892,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T12:12:40Z",
+            "last_commit": "2026-08-26T07:50:03Z",
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9390
+            "stars": 9403
           }
         },
         {
@@ -76,10 +76,10 @@
             "archived": false,
             "id": 982517950,
             "language": "Python",
-            "last_commit": "2026-08-25T01:28:23Z",
+            "last_commit": "2026-08-26T01:37:17Z",
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6815
+            "stars": 6824
           }
         },
         {
@@ -106,7 +106,7 @@
             "archived": false,
             "id": 1190321719,
             "language": "Python",
-            "last_commit": "2026-08-18T17:11:20Z",
+            "last_commit": "2026-08-26T01:53:44Z",
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
             "stars": 157
@@ -127,10 +127,10 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-25T02:59:57Z",
+            "last_commit": "2026-08-25T15:48:23Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32486
+            "stars": 32513
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89839
+            "stars": 89870
           }
         },
         {
@@ -193,10 +193,10 @@
             "archived": false,
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-25T07:46:10Z",
+            "last_commit": "2026-08-25T19:32:03Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65507
+            "stars": 65575
           }
         },
         {
@@ -208,10 +208,10 @@
             "archived": false,
             "id": 849553306,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:49:16Z",
+            "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17522
+            "stars": 17524
           }
         },
         {
@@ -223,10 +223,10 @@
             "archived": false,
             "id": 849553306,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:49:16Z",
+            "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17522
+            "stars": 17524
           }
         },
         {
@@ -238,10 +238,10 @@
             "archived": false,
             "id": 849553306,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:49:16Z",
+            "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17522
+            "stars": 17524
           }
         },
         {
@@ -253,10 +253,10 @@
             "archived": false,
             "id": 849553306,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:49:16Z",
+            "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17522
+            "stars": 17524
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2026-08-12T15:04:55Z",
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2759
+            "stars": 2761
           }
         }
       ],
@@ -331,7 +331,7 @@
             "archived": false,
             "id": 1232304276,
             "language": "Python",
-            "last_commit": "2026-08-25T06:41:18Z",
+            "last_commit": "2026-08-26T06:42:48Z",
             "owner": "silly-geese",
             "repo": "estonian-mcp",
             "stars": 17
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 133978
+            "stars": 134406
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92769
+            "stars": 92831
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:54:02.266Z",
+    "last_updated": "2026-08-26T07:55:10.935Z",
     "original_repository": "rdmgator12/awesome-claude-connectors",
     "original_repository_id": 1209861758,
     "original_repository_sha": "985c449747235e06eea8d575aa68e9b9bf8a2096",
