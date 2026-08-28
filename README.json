@@ -18,7 +18,8 @@
                 "owner": "jerichosequitin",
                 "repo": "metabase-mcp",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T19:23:51.520Z"
             }
           ],
           "description": null,
@@ -40,11 +41,12 @@
             "archived": false,
             "id": 1225763155,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T08:09:03Z",
+            "last_commit": "2026-08-28T08:15:28Z",
             "owner": "alpic-ai",
             "repo": "alpix",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Design and Creative"
@@ -61,11 +63,12 @@
             "archived": false,
             "id": 898345892,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:21:32Z",
+            "last_commit": "2026-08-28T08:57:36Z",
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9416
-          }
+            "stars": 9426
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -76,11 +79,12 @@
             "archived": false,
             "id": 982517950,
             "language": "Python",
-            "last_commit": "2026-08-27T01:45:40Z",
+            "last_commit": "2026-08-28T18:51:39Z",
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6835
-          }
+            "stars": 6842
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -95,7 +99,8 @@
             "owner": "CursorTouch",
             "repo": "Android-MCP",
             "stars": 824
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -109,8 +114,9 @@
             "last_commit": "2026-08-27T07:38:54Z",
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 158
-          }
+            "stars": 159
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Desktop Automation"
@@ -127,11 +133,12 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-27T14:22:25Z",
+            "last_commit": "2026-08-28T14:17:47Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32558
-          }
+            "stars": 32583
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -146,7 +153,8 @@
             "owner": "thecombatwombat",
             "repo": "replicant-mcp",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -161,7 +169,8 @@
             "owner": "souldriver007",
             "repo": "karp-inspector-lite",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Development Tools"
@@ -178,11 +187,12 @@
             "archived": false,
             "id": 890668799,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:12:36Z",
+            "last_commit": "2026-08-28T17:58:20Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89909
-          }
+            "stars": 89934
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -193,11 +203,12 @@
             "archived": false,
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-26T16:15:06Z",
+            "last_commit": "2026-08-28T15:20:13Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65646
-          }
+            "stars": 65701
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -211,8 +222,9 @@
             "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17545
-          }
+            "stars": 17568
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -226,8 +238,9 @@
             "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17545
-          }
+            "stars": 17568
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -241,8 +254,9 @@
             "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17545
-          }
+            "stars": 17568
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -256,8 +270,9 @@
             "last_commit": "2026-08-25T14:48:13Z",
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17545
-          }
+            "stars": 17568
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -272,7 +287,8 @@
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Documents and Files"
@@ -292,8 +308,9 @@
             "last_commit": "2026-08-12T15:04:55Z",
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2767
-          }
+            "stars": 2769
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Entertainment"
@@ -314,7 +331,8 @@
             "owner": "blencorp",
             "repo": "clinicaltrials-mcp-server",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Healthcare and Life Sciences"
@@ -331,11 +349,12 @@
             "archived": false,
             "id": 1232304276,
             "language": "Python",
-            "last_commit": "2026-08-27T17:18:44Z",
+            "last_commit": "2026-08-28T18:11:07Z",
             "owner": "silly-geese",
             "repo": "estonian-mcp",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Productivity"
@@ -356,7 +375,8 @@
             "owner": "spranab",
             "repo": "saga-mcp",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Project Management"
@@ -376,8 +396,9 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 134703
-          }
+            "stars": 134926
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -388,11 +409,12 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-26T20:37:13Z",
+            "last_commit": "2026-08-27T21:09:23Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92885
-          }
+            "stars": 92983
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         },
         {
           "node_type": "item",
@@ -407,14 +429,15 @@
             "owner": "rdmgator12",
             "repo": "awesome-chatgpt-apps",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T19:23:51.520Z"
         }
       ],
       "title": "Related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:15:06.272Z",
+    "last_updated": "2026-08-28T19:23:51.520Z",
     "original_repository_info": {
       "archived": false,
       "id": 1209861758,
@@ -422,7 +445,7 @@
       "last_commit": "2026-08-19T22:33:35Z",
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 99
+      "stars": 100
     },
     "original_repository_sha": "985c449747235e06eea8d575aa68e9b9bf8a2096",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
