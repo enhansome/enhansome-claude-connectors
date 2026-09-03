@@ -80,11 +80,11 @@
             "id": 898345892,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T09:41:14Z",
+            "last_commit": "2026-09-02T12:14:41Z",
             "open_issues": 224,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9470,
+            "stars": 9473,
             "topics": [
               "agent",
               "ai",
@@ -115,7 +115,7 @@
             "open_issues": 17,
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6875,
+            "stars": 6894,
             "topics": [
               "ai",
               "desktop",
@@ -143,7 +143,7 @@
             "open_issues": 10,
             "owner": "CursorTouch",
             "repo": "Android-MCP",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "ai",
               "android",
@@ -196,11 +196,11 @@
             "id": 942771284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T11:56:44Z",
-            "open_issues": 320,
+            "last_commit": "2026-09-03T11:51:59Z",
+            "open_issues": 328,
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32665,
+            "stars": 32676,
             "topics": [
               "github",
               "mcp",
@@ -279,11 +279,11 @@
             "id": 890668799,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T03:01:29Z",
-            "open_issues": 517,
+            "last_commit": "2026-09-03T01:42:26Z",
+            "open_issues": 478,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90022,
+            "stars": 90043,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -300,11 +300,11 @@
             "id": 826168160,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T09:50:33Z",
-            "open_issues": 873,
+            "last_commit": "2026-09-03T12:02:50Z",
+            "open_issues": 886,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65888,
+            "stars": 65939,
             "topics": [
               "ai",
               "convert",
@@ -341,7 +341,7 @@
             "open_issues": 198,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17592,
+            "stars": 17600,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -362,7 +362,7 @@
             "open_issues": 198,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17592,
+            "stars": 17600,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -383,7 +383,7 @@
             "open_issues": 198,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17592,
+            "stars": 17600,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -404,7 +404,7 @@
             "open_issues": 198,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17592,
+            "stars": 17600,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -421,8 +421,8 @@
             "id": 1009311431,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T05:34:08Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-03T04:24:32Z",
+            "open_issues": 15,
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
             "stars": 153,
@@ -460,10 +460,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-12T15:04:55Z",
-            "open_issues": 210,
+            "open_issues": 213,
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2783,
+            "stars": 2788,
             "topics": [
               "ai",
               "apps",
@@ -520,8 +520,8 @@
             "id": 1232304276,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T10:37:08Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-03T10:39:23Z",
+            "open_issues": 0,
             "owner": "silly-geese",
             "repo": "estonian-mcp",
             "stars": 18,
@@ -563,13 +563,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Your agent loses the plan between sessions. saga-mcp gives it a SQLite-backed tracker for projects, epics, tasks, subtasks, dependencies and notes — 31 MCP tools, activity log, one-call dashboard. No accounts, no external services.",
+            "description": "Your agent loses the plan between sessions, so saga-mcp gives it a SQLite-backed tracker for projects, epics, tasks, subtasks, dependencies, and notes: 33 MCP tools, an activity log, and a one-call dashboard, with no accounts and no external services.",
             "homepage": "https://www.npmjs.com/package/saga-mcp",
             "id": 1163521275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-18T16:05:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-02T14:28:39Z",
+            "open_issues": 0,
             "owner": "spranab",
             "repo": "saga-mcp",
             "stars": 33,
@@ -609,11 +609,11 @@
             "id": 793375104,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T04:54:57Z",
+            "last_commit": "2026-09-02T23:13:03Z",
             "open_issues": 5,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 135715,
+            "stars": 135859,
             "topics": [
               "agents",
               "llms",
@@ -636,10 +636,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-01T07:26:30Z",
-            "open_issues": 3695,
+            "open_issues": 3791,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 93787,
+            "stars": 93934,
             "topics": [
               "ai",
               "mcp"
@@ -663,7 +663,7 @@
             "open_issues": 3,
             "owner": "rdmgator12",
             "repo": "awesome-chatgpt-apps",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "apps-sdk",
               "awesome",
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:04:30.079Z",
+    "last_updated": "2026-09-03T12:03:44.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 1,625 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 72 held pending vendor verification, with per-entry descriptions and use cases.",
@@ -693,7 +693,7 @@
       "open_issues": 4,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 104,
+      "stars": 105,
       "topics": [
         "anthropic",
         "awesome",
