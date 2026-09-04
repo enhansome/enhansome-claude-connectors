@@ -602,10 +602,10 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 11 connectors.
 
-* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,473 | 🐛 224 | 🌐 TypeScript | 📅 2026-09-02 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
-* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,894 | 🐛 17 | 🌐 Python | 📅 2026-09-01 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
-* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 834 | 🐛 10 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
-* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 165 | 🐛 2 | 🌐 Python | 📅 2026-08-27 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
+* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,478 | 🐛 228 | 🌐 TypeScript | 📅 2026-09-03 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
+* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,900 | 🐛 18 | 🌐 Python | 📅 2026-09-03 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
+* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 837 | 🐛 10 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
+* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 166 | 🐛 3 | 🌐 Python | 📅 2026-08-27 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
 * [Asteroid](https://asteroid.ai) - Builds and runs agentic, repeatable browser and computer-use workflows. *Use case: Automating portal workflows, running repeatable data-entry tasks, scaling browser-based back-office work.*
 * [Control Chrome](https://chromedevtools.github.io/devtools-protocol/) - Chrome tab and navigation control. *Use case: Browser automation, tab management, web scraping from Chrome.*
 * [Control your Mac](https://support.apple.com/guide/terminal/use-applescript-apd44b0e5b2-3b9b-46de-8bfc-4741be13ef5b) - Execute AppleScript to automate macOS. *Use case: System-level Mac automation, app control, file management via AppleScript.*
@@ -618,7 +618,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 76 connectors.
 
-* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,676 | 🐛 328 | 🌐 Go | 📅 2026-09-03 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
+* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,708 | 🐛 309 | 🌐 Go | 📅 2026-09-03 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
 * [Replicant MCP](https://github.com/thecombatwombat/replicant-mcp) ⭐ 16 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-26 - Android MCP server that lets AI assistants build APKs, control emulators, and automate UI testing. *Use case: Ask Claude to build a debug APK, launch it in an emulator, and walk through a checkout flow.*
 * [KARP Inspector Lite](https://github.com/souldriver007/karp-inspector-lite) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Semantic codebase search. *Use case: Understanding unfamiliar codebases, finding relevant code by meaning rather than keywords.*
 * [3Min API](https://3minapi.com) **`C`** - Create a working REST API endpoint without writing backend code, then test it, search what comes in, and share access with partners — all from chat. *Use case: Spinning up an endpoint to collect signups for a landing page, checking which requests came in overnight, giving a partner access to the data.*
@@ -699,13 +699,13 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 51 connectors.
 
-* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 90,043 | 🐛 478 | 🌐 TypeScript | 📅 2026-09-03 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
-* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 65,939 | 🐛 886 | 🌐 Python | 📅 2026-09-03 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
-* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,600 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
-* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,600 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
-* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,600 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
-* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,600 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
-* [PDF Tools - Fill, Sign, Merge, Split, Extract](https://github.com/Open-Document-Alliance/PDF-Tools) ⭐ 153 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-03 - Local PDF workflow extension for Claude Desktop. *Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.*
+* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 90,074 | 🐛 481 | 🌐 TypeScript | 📅 2026-09-03 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
+* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 65,991 | 🐛 889 | 🌐 Python | 📅 2026-09-04 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
+* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,604 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
+* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,604 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
+* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,604 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
+* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,604 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
+* [PDF Tools - Fill, Sign, Merge, Split, Extract](https://github.com/Open-Document-Alliance/PDF-Tools) ⭐ 153 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-04 - Local PDF workflow extension for Claude Desktop. *Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.*
 * [Avanquest PDF API Extension](https://developers.avanquest.com/products/pdf-api) - Scalable PDF processing API. *Use case: PDF conversion, merging, compression, splitting, and document-processing automation.*
 * [Box](https://www.box.com) - Enterprise cloud content management and file sharing. *Use case: Document collaboration, secure file sharing, content governance, workflow automation.*
 * [ChangeThisFile](https://changethisfile.com) **`C`** - Free online file converter supporting over 690 conversion routes across images, documents, video, audio, and archive formats, with no account required. *Use case: Convert an uploaded PDF invoice into a DOCX file without creating an account.*
@@ -781,7 +781,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 14 connectors.
 
-* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,788 | 🐛 213 | 🌐 TypeScript | 📅 2026-08-12 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
+* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,790 | 🐛 212 | 🌐 TypeScript | 📅 2026-08-12 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
 * [Ableton Knowledge](https://www.ableton.com) - Ask Claude about Ableton products. *Use case: Music production help, Ableton Live and Push reference lookups, workflow guidance for producers.*
 * [Artist Growth](https://www.artistgrowth.com) **`C`** - Music Ops Built for AI. *Use case: Handling a routine music operations task through an AI-driven workflow.*
 * [Audible](https://www.audible.com) - Audiobook recommendations and library access. *Use case: Discovering new audiobooks, managing listening queue, exploring genres and series.*
@@ -1569,7 +1569,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 95 connectors.
 
-* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-09-03 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
+* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-09-04 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
 * [Aboard](https://www.aboardhr.com) **`C`** - Connect Claude to Aboard to look up colleagues, schedule meetings, manage tasks, request time off, and run reviews right from the conversation. *Use case: Looking up a colleague's role before a meeting, requesting next week off, checking the status of an overdue task.*
 * [Airepoto](https://www.airepoto.com) **`C`** - Find, read, and summarize your Airepoto meetings. *Use case: Finding last Tuesday's meeting, summarizing what was decided, checking who was assigned a follow-up.*
 * [Airtable](https://www.airtable.com) - Structured data in Claude. *Use case: Database-spreadsheet hybrid, project tracking, content calendars, inventory management.*
@@ -1669,7 +1669,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 53 connectors.
 
-* [Saga — Project Tracker for AI Agents](https://github.com/spranab/saga-mcp) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02 - Jira-like project tracker for AI agents. *Use case: Per-project task hierarchy and activity logging so agents keep track of multi-step work.*
+* [Saga — Project Tracker for AI Agents](https://github.com/spranab/saga-mcp) ⭐ 33 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-03 - Jira-like project tracker for AI agents. *Use case: Per-project task hierarchy and activity logging so agents keep track of multi-step work.*
 * [Adobe Workfront](https://business.adobe.com/products/workfront.html) - Enterprise work management: planning, projects, tasks, approvals. *Use case: Enterprise work management, project planning, resource allocation, approval workflows.*
 * [Aerion](https://www.aerion.app) **`C`** - Inspect and act on your Aerion projects, time tracking, staffing, and approvals - straight from Claude. *Use case: Checking a project's staffing gaps before a kickoff, approving a submitted timesheet, reviewing hours logged this week.*
 * [Aha!](https://www.aha.io) **`C`** - Product management platform for roadmapping, strategy, and release planning. *Use case: Pull product roadmap and feature-prioritization data into Claude for strategic planning conversations.*
@@ -2024,9 +2024,9 @@ Every link above has been checked against the live page — a URL ships only whe
 
 ## Related
 
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 135,859 | 🐛 5 | 🌐 Python | 📅 2026-09-02 - LLM-powered applications across providers.
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 93,934 | 🐛 3,791 | 📅 2026-09-01 - Model Context Protocol servers powering many of the connectors above.
-* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 14 | 🐛 3 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 135,998 | 🐛 6 | 🌐 Python | 📅 2026-09-02 - LLM-powered applications across providers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 94,078 | 🐛 3,849 | 📅 2026-09-01 - Model Context Protocol servers powering many of the connectors above.
+* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 13 | 🐛 3 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
 
 ***
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Ralph Martello](https://github.com/rdmgator12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
