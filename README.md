@@ -4,9 +4,9 @@
   <img src="media/banner.svg" alt="Awesome Claude Connectors" width="800">
 </p>
 
-> A comprehensive directory of the connectors in Anthropic's [Claude Connectors catalog](https://www.anthropic.com/partners/mcp) — 1,625 MCP integrations across both catalog surfaces (the curated web directory and the in-app catalog, which additionally surfaces community-built and desktop-extension connectors), plus 72 held pending vendor verification, organized by category with descriptions and use cases.
+> A comprehensive directory of the connectors in Anthropic's [Claude Connectors catalog](https://www.anthropic.com/partners/mcp) — 1,627 MCP integrations across both catalog surfaces (the curated web directory and the in-app catalog, which additionally surfaces community-built and desktop-extension connectors), plus 71 held pending vendor verification, organized by category with descriptions and use cases.
 
-**Last updated:** August 10, 2026 | **Connectors tracked:** 1,625 listed + 72 held | **Categories:** 30
+**Last updated:** August 10, 2026 | **Connectors tracked:** 1,627 listed + 71 held | **Categories:** 30
 
 Claude connectors are MCP (Model Context Protocol) servers that extend Claude with real-time access to external tools, data sources, and services. They work across Claude.ai, Claude Desktop, Claude Mobile, Claude Code, and Claude Cowork. Connectors in the **curated web directory** are vetted by Anthropic for security, reliability, and compatibility; the **in-app catalog** additionally surfaces community-built and local desktop-extension connectors that Anthropic makes available but does not itself build or vet. This list tracks the union of both surfaces — see CONTRIBUTING.md for the two-surface methodology.
 
@@ -95,7 +95,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## AI and ML
 
-46 connectors.
+47 connectors.
 
 * [Agensi](https://www.agensi.io) **`C`** - Search, discover, and install AI agent skills. *Use case: Searching for a skill that drafts release notes, installing an agent skill for meeting summaries, checking what's new in the catalog this week.*
 * [Agently](https://www.agently.dev) **`C`** - Give your agents your company's memory. *Use case: Asking an agent what pricing was quoted to a customer last month, pulling up a decision made in a past project, checking a policy the team agreed to earlier this year.*
@@ -119,6 +119,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Komplyt Zero](https://www.kompl.yt/zero) **`C`** - Stop briefing and start working. *Use case: Handing off a task without writing a lengthy brief first, letting an agent start on the work immediately.*
 * [LeapMemory](https://leapmemory.com) **`C`** - Permanent, private memory for Claude. *Use case: Picking up a conversation from weeks ago without repeating the backstory, keeping a personal note that only one account can see.*
 * [Lenz](https://lenz.io) **`C`** - An independent fact-checking layer for AI output that returns a sourced verdict for any factual claim, either a fast check or the full eight-model trace. *Use case: Checking whether a claim in a draft article is actually true, verifying a statistic before it goes into a report, running the full eight-model trace on a contested fact instead of a quick pass.*
+* [MCP Memory](https://mnemoverse.com/docs/api/mcp-server) - Hosted persistent memory for AI agents with one key across Claude Code, Cursor, VS Code, and ChatGPT. *Use case: Carrying a decision made in a Claude Code session into a Cursor session the next day, recalling a preference stored weeks earlier before drafting a reply, marking a remembered fact as wrong so it fades.*
 * [Meko](https://mekodata.ai) **`C`** - Shared context for agents that work and learn together. *Use case: Letting one agent pick up context another agent already gathered, keeping multiple agents working from the same shared notes as a project evolves.*
 * [Mem0](https://mem0.ai) - Persistent memory for AI agents and assistants. *Use case: Long-term memory that survives across sessions, semantic recall of prior context, shared memory across tools.*
 * [Memories.ai](https://memories.ai) **`C`** - Search, recall & analyze your video memories. *Use case: Finding the clip where a specific person appears across old footage, recalling what happened during a trip last summer, analyzing a video for a recurring pattern.*
@@ -486,7 +487,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Matchory](https://matchory.com) **`C`** - Find, evaluate, and organise suppliers with Matchory's supplier discovery and market intelligence. *Use case: Finding a new supplier for a hard-to-source part, comparing two suppliers before signing a contract, organizing a shortlist ahead of a sourcing decision.*
 * [Normhyra.ai](https://normhyra.ai) **`C`** - Swedish normhyra calculation engine – convert rents, process rent rolls, generate PDF reports. *Use case: Converting an old rent to today's normhyra rate before a lease renewal, processing a building's full rent roll at once, generating a PDF report for a tenant dispute.*
 * [Optilogic](https://optilogic.com) **`C`** - AI-driven supply chain design and decision intelligence. *Use case: Redesigning a supply chain network after a warehouse closes, running a decision-intelligence analysis before choosing a new distribution route.*
-* [Real-Time LCA MCP](https://realtimelca.com) **`C`** - Edit full building LCA, Find EPDs, optimize design. *Use case: Swapping a structural material in a building LCA to see the carbon impact, finding an EPD for a specific product, optimizing a design before a sustainability submission.*
+* [Real-Time LCA MCP](https://realtimelca.com/en-us/) **`C`** - Edit full building LCA, Find EPDs, optimize design. *Use case: Swapping a structural material in a building LCA to see the carbon impact, finding an EPD for a specific product, optimizing a design before a sustainability submission.*
 * [RED Atlas API](https://api.atlas.red) - Programmatic access to real estate data for Puerto Rico and Colombia, including listings, parcels, transactions, and valuations. *Use case: Query property valuations and ownership records for a parcel in San Juan or Bogota.*
 * [SkyWatch](https://skywatch.com) - Search and price satellite imagery worldwide. *Use case: Finding satellite imagery of a location, comparing pricing across providers, tasking a new capture.*
 * [Swath API](https://swathapi.com) **`C`** - Radar-verified hail and wind storm detection with affected-property intelligence for the continental US — find storms, map damage swaths, and pull ranked property reports. *Use case: Checking if a specific address fell inside last week's hail swath, ranking which properties in a storm's path likely need the most repair, mapping a wind event before dispatching an inspector.*
@@ -602,10 +603,10 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 11 connectors.
 
-* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,500 | 🐛 233 | 🌐 TypeScript | 📅 2026-09-05 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
-* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,913 | 🐛 18 | 🌐 Python | 📅 2026-09-06 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
-* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 838 | 🐛 10 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
-* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 168 | 🐛 2 | 🌐 Python | 📅 2026-09-05 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
+* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,505 | 🐛 232 | 🌐 TypeScript | 📅 2026-09-07 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
+* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 6,925 | 🐛 17 | 🌐 Python | 📅 2026-09-06 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
+* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 839 | 🐛 10 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
+* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 170 | 🐛 2 | 🌐 Python | 📅 2026-09-07 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
 * [Asteroid](https://asteroid.ai) - Builds and runs agentic, repeatable browser and computer-use workflows. *Use case: Automating portal workflows, running repeatable data-entry tasks, scaling browser-based back-office work.*
 * [Control Chrome](https://chromedevtools.github.io/devtools-protocol/) - Chrome tab and navigation control. *Use case: Browser automation, tab management, web scraping from Chrome.*
 * [Control your Mac](https://support.apple.com/guide/terminal/use-applescript-apd44b0e5b2-3b9b-46de-8bfc-4741be13ef5b) - Execute AppleScript to automate macOS. *Use case: System-level Mac automation, app control, file management via AppleScript.*
@@ -618,7 +619,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 76 connectors.
 
-* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,746 | 🐛 312 | 🌐 Go | 📅 2026-09-05 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
+* [GitHub MCP](https://github.com/github/github-mcp-server) ⭐ 32,779 | 🐛 317 | 🌐 Go | 📅 2026-09-05 - The official GitHub MCP server. *Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.*
 * [Replicant MCP](https://github.com/thecombatwombat/replicant-mcp) ⭐ 16 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-26 - Android MCP server that lets AI assistants build APKs, control emulators, and automate UI testing. *Use case: Ask Claude to build a debug APK, launch it in an emulator, and walk through a checkout flow.*
 * [KARP Inspector Lite](https://github.com/souldriver007/karp-inspector-lite) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Semantic codebase search. *Use case: Understanding unfamiliar codebases, finding relevant code by meaning rather than keywords.*
 * [3Min API](https://3minapi.com) **`C`** - Create a working REST API endpoint without writing backend code, then test it, search what comes in, and share access with partners — all from chat. *Use case: Spinning up an endpoint to collect signups for a landing page, checking which requests came in overnight, giving a partner access to the data.*
@@ -699,12 +700,12 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 51 connectors.
 
-* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 90,105 | 🐛 488 | 🌐 TypeScript | 📅 2026-09-03 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
-* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 66,054 | 🐛 895 | 🌐 Python | 📅 2026-09-04 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
-* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,614 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
-* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,614 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
-* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,614 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
-* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,614 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
+* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 90,132 | 🐛 493 | 🌐 TypeScript | 📅 2026-09-03 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
+* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 66,098 | 🐛 894 | 🌐 Python | 📅 2026-09-07 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
+* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,623 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
+* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,623 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
+* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,623 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
+* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,623 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-04 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
 * [PDF Tools - Fill, Sign, Merge, Split, Extract](https://github.com/Open-Document-Alliance/PDF-Tools) ⭐ 153 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-05 - Local PDF workflow extension for Claude Desktop. *Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.*
 * [Avanquest PDF API Extension](https://developers.avanquest.com/products/pdf-api) - Scalable PDF processing API. *Use case: PDF conversion, merging, compression, splitting, and document-processing automation.*
 * [Box](https://www.box.com) - Enterprise cloud content management and file sharing. *Use case: Document collaboration, secure file sharing, content governance, workflow automation.*
@@ -781,7 +782,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 14 connectors.
 
-* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,796 | 🐛 212 | 🌐 TypeScript | 📅 2026-08-12 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
+* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,797 | 🐛 212 | 🌐 TypeScript | 📅 2026-08-12 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
 * [Ableton Knowledge](https://www.ableton.com) - Ask Claude about Ableton products. *Use case: Music production help, Ableton Live and Push reference lookups, workflow guidance for producers.*
 * [Artist Growth](https://www.artistgrowth.com) **`C`** - Music Ops Built for AI. *Use case: Handling a routine music operations task through an AI-driven workflow.*
 * [Audible](https://www.audible.com) - Audiobook recommendations and library access. *Use case: Discovering new audiobooks, managing listening queue, exploring genres and series.*
@@ -901,6 +902,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ### Market Data and Investment Research
 
+* [mrmarket.ai](https://github.com/mrmarket-ai/mrmarket-mcp) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-06-19 **`C`** - Ad-hoc analysis of US-listed stocks in English. *Use case: Asking for a quick read on a US-listed stock's earnings, checking why a ticker moved today, getting an English-language summary before a trade.*
 * [Aiera](https://www.aiera.com) - Financial events, filings, and publications. *Use case: Earnings call analysis, SEC filing search, financial event monitoring.*
 * [Alpha Vantage MCP Server](https://www.alphavantage.co) - Global stock prices, fundamentals, earnings, option chains, technical indicators, indices, forex, and commodities data. *Use case: Real-time stock quotes, company fundamentals analysis, technical indicator charting.*
 * [Athena Information](https://athenainformation.ai) **`C`** - AI-powered market intelligence from global news sources. *Use case: Checking how international outlets are covering a sector before a trading decision, tracking global sentiment on a specific commodity.*
@@ -920,7 +922,6 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Massive](https://massive.com) **`C`** - Real-time and historical stock market data, options data, indices, ETFs, futures, forex, and crypto, including trades, quotes, aggregates, and more from Massive's financial data API. *Use case: Checking a stock's after-hours quote, backtesting an options strategy against historical prices, comparing crypto and forex movements in the same window.*
 * [MetricDuck](https://www.metricduck.com) **`C`** - Audit-grade SEC data for your AI workflows: financials, filings & 323+ metrics for 5,500+ US companies — every figure traceable to its source filing — plus source-labeled earnings-call & IR commentary. *Use case: Checking whether a specific 10-K figure matches the source filing, comparing a metric across two competitors, reading earnings-call commentary before an investment memo.*
 * [Morningstar](https://www.morningstar.com) - Investment insights. *Use case: Fund analysis, stock ratings, portfolio research for individual and institutional investors.*
-* [mrmarket.ai](https://mrmarket.ai) **`C`** - Ad-hoc analysis of US-listed stocks in English. *Use case: Asking for a quick read on a US-listed stock's earnings, checking why a ticker moved today, getting an English-language summary before a trade.*
 * [MSCI](https://www.msci.com) - Data-to-insight platform. *Use case: ESG ratings, factor models, risk analytics for institutional investors.*
 * [MT Newswires](https://www.mtnewswires.com) - Real-time global financial news. *Use case: Breaking financial news, market-moving event detection, news-based trading signals.*
 * [OilPriceAPI — Oil, Gas & Commodity Prices](https://www.oilpriceapi.com) - Real-time oil, gas, and commodity prices covering spot, history, futures, and alerts. *Use case: Pulling a live crude spot price, checking historical commodity trends, setting a price alert.*
@@ -979,7 +980,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [TaxAct](https://www.taxact.com) - Estimate your refund and check what documents you need. *Use case: Tax-refund estimation, document checklists, filing preparation guidance.*
 * [Tiller](https://tiller.com) - Connect to transactions in a Tiller spreadsheet. *Use case: Pulling recent bank transactions into a budgeting review, reconciling a spreadsheet against actual spending, generating a monthly cash-flow summary.*
 * [Trioteca Hipotecas](https://trioteca.com) **`C`** - Calcula costes hipotecarios. *Use case: Comparando el coste total de una hipoteca a 20 años, calculando los gastos de notaría antes de firmar, revisando el coste de cancelar una hipoteca anticipadamente.*
-* [ualet](https://www.ualet.com) **`C`** - Understand your personal finances. *Use case: Checking spending for the past month, comparing this month's expenses to last month's, seeing where money went after a big purchase.*
+* [ualet](https://ualet.cl) **`C`** - Understand your personal finances. *Use case: Checking spending for the past month, comparing this month's expenses to last month's, seeing where money went after a big purchase.*
 * [ValYou](https://getvalyou.co/claude) **`C`** - Ask Claude about your net worth, wealth ranking, and financial future. *Use case: Checking how net worth compares to a wealth ranking benchmark, projecting financial future after a raise, tracking net worth growth over the past year.*
 
 ### Private Markets Real Estate and Deal Intelligence
@@ -1270,10 +1271,11 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Marketing and Sales
 
-241 connectors.
+242 connectors.
 
 ### Advertising and Paid Media
 
+* [AdKit - Ads Manager](https://adkit.so) **`C`** - Manage campaigns, ad sets, keywords, audiences, and budgets across Meta, Google, TikTok, LinkedIn, Reddit, Microsoft, and X Ads, with reporting on spend, ROAS, and cost per result, PPC budget audits, a library of 500k+ competitor ads, and changes that stay drafts until approved. *Use case: Pulling last week's ROAS before a client report, pausing a campaign whose cost per result crossed a threshold, checking which competitor creatives have run longest before briefing a new set.*
 * [Adlicio](https://tryadlicio.com) **`C`** - Turn customer comments into ad angles. *Use case: Pulling a recurring complaint from product reviews to find a new ad hook, turning a glowing customer quote into ad copy for a new campaign.*
 * [Adology](https://adologyai.com) **`C`** - Competitive ad intelligence for marketers that pulls a brand's ad creative, hooks, and spend patterns across Meta, TikTok, YouTube, and more. *Use case: Checking a competitor's TikTok ad spend before planning next quarter's budget, pulling a rival's best-performing ad hooks on Meta for inspiration.*
 * [AdShields](https://www.adshields.pro/en) **`C`** - Creative operations hub: a library of videos and VSLs where your team writes scripts, comments by passage, versions, approves, and pushes to your ad platform — all in natural language. *Use case: Leaving a comment on a specific line of a VSL script before recording, approving a final video cut before it pushes live to the ad platform.*
@@ -1491,7 +1493,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 * [Leexi](https://www.leexi.ai) **`C`** - Turn your sales calls into answers by searching, summarizing, and acting on every conversation Leexi has recorded. *Use case: Searching a recorded sales call for a specific objection raised by the buyer, summarizing what was agreed on in yesterday's call, drafting a follow-up task from the conversation.*
 * [lemlist](https://www.lemlist.com) **`C`** - Sales engagement platform that finds buying signals, enriches lead data, and runs multichannel outreach campaigns. *Use case: Enrich a lead list with signals and launch an outreach sequence directly from chat.*
 * [Lusha](https://www.lusha.com) - B2B contact and company enrichment. *Use case: Sales prospecting, verified email and direct-dial discovery, CRM data enrichment, buying-signal detection.*
-* [Moody's Growth & Strategy](https://www.moodys.com/web/en/us/solutions/business-intelligence/data-for-sales-and-marketing.html) **`C`** - Insights that fuel GTM growth. *Use case: Asking for an insight to support an upcoming go-to-market push into a new segment.*
+* [Moody's Growth & Strategy](https://www.moodys.com/web/en/us/solutions/growth-strategy.html) **`C`** - Insights that fuel GTM growth. *Use case: Asking for an insight to support an upcoming go-to-market push into a new segment.*
 * [MyChatBot](https://mychatbot.app) **`C`** - Build and run an AI sales agent for your business. *Use case: Setting up an AI sales agent to answer pricing questions on a website, checking how many leads it qualified this week.*
 * [Nooks](https://www.nooks.ai) - Search, access, and get insights on Nooks data. *Use case: Reviewing dialer call outcomes, pulling sequence performance, checking sourced signals on target accounts.*
 * [Offri](https://offri.nl) **`C`** - Enables you to create great looking proposals quickly. *Use case: Putting together a proposal for a new client pitch in a few minutes, reusing a proposal template for a similar deal.*
@@ -1569,7 +1571,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 95 connectors.
 
-* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-09-06 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
+* [estonian](https://github.com/silly-geese/estonian-mcp) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-09-07 - Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. *Use case: Proofread and spell-check an Estonian-language email draft before sending it.*
 * [Aboard](https://www.aboardhr.com) **`C`** - Connect Claude to Aboard to look up colleagues, schedule meetings, manage tasks, request time off, and run reviews right from the conversation. *Use case: Looking up a colleague's role before a meeting, requesting next week off, checking the status of an overdue task.*
 * [Airepoto](https://www.airepoto.com) **`C`** - Find, read, and summarize your Airepoto meetings. *Use case: Finding last Tuesday's meeting, summarizing what was decided, checking who was assigned a follow-up.*
 * [Airtable](https://www.airtable.com) - Structured data in Claude. *Use case: Database-spreadsheet hybrid, project tracking, content calendars, inventory management.*
@@ -1986,7 +1988,6 @@ Every link above has been checked against the live page — a URL ships only whe
 | LedgerHQ                                           | Work with your LedgerHQ books in Claude. Run financial reports, search transactions, code and post bank activity, create journal entries,…  | no bookkeeping vendor named LedgerHQ found; LedgerHQ is the crypto hardware-wallet org (ledger.com), not this product.                                               |
 | Magicweave                                         | Design, validate, simulate, and one-click-build complete game economies & backend from a plain-English brief.                               | no vendor homepage found; only Mintlify-hosted docs subdomain and console/api.magicweave.xyz references.                                                             |
 | mailnix                                            | forms and email with your mta                                                                                                               | no vendor page found for "mailnix"; searches returned unrelated MCP email servers (MailMCP, Postmark, AIMX).                                                         |
-| MCP Memory                                         | Hosted persistent memory for AI agents with one key across Claude Code, Cursor, VS Code, and ChatGPT.                                       | No confirmed vendor site; possibly a rebrand of Mnemoverse Memory (unconfirmed).                                                                                     |
 | mcpMyAdmin                                         | Query databases from Claude, on any device                                                                                                  | Two searches returned only unrelated MySQL MCP servers and McMyAdmin (Minecraft panel); no vendor homepage found.                                                    |
 | Mercado Libre Inmuebles                            | Encontrar tu propiedad ideal                                                                                                                | Product page exists per country (.com.ar / .com.mx / .com.co /c/inmuebles); connector's country not specified.                                                       |
 | Milan Metro Status                                 | Real-time Milan Metro Status                                                                                                                | no vendor page found; only official ATM Milano transit site, which is not this connector.                                                                            |
@@ -2024,9 +2025,9 @@ Every link above has been checked against the live page — a URL ships only whe
 
 ## Related
 
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 136,321 | 🐛 9 | 🌐 Python | 📅 2026-09-02 - LLM-powered applications across providers.
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 94,391 | 🐛 3,973 | 📅 2026-09-01 - Model Context Protocol servers powering many of the connectors above.
-* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 13 | 🐛 3 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 136,491 | 🐛 12 | 🌐 Python | 📅 2026-09-07 - LLM-powered applications across providers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 94,547 | 🐛 3,361 | 📅 2026-09-07 - Model Context Protocol servers powering many of the connectors above.
+* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 13 | 🐛 4 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
 
 ***
 
@@ -2036,4 +2037,4 @@ To the extent possible under law, [Ralph Martello](https://github.com/rdmgator12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
