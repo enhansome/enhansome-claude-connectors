@@ -80,11 +80,11 @@
             "id": 898345892,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:29:59Z",
-            "open_issues": 233,
+            "last_commit": "2026-09-10T15:08:30Z",
+            "open_issues": 234,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9523,
+            "stars": 9539,
             "topics": [
               "agent",
               "ai",
@@ -111,11 +111,11 @@
             "id": 982517950,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:41:24Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-10T16:35:02Z",
+            "open_issues": 20,
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6962,
+            "stars": 6972,
             "topics": [
               "ai",
               "desktop",
@@ -143,7 +143,7 @@
             "open_issues": 10,
             "owner": "CursorTouch",
             "repo": "Android-MCP",
-            "stars": 843,
+            "stars": 848,
             "topics": [
               "ai",
               "android",
@@ -169,7 +169,7 @@
             "open_issues": 2,
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 173,
+            "stars": 175,
             "topics": [
               "computer-use",
               "macos",
@@ -196,11 +196,11 @@
             "id": 942771284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-10T01:25:36Z",
-            "open_issues": 316,
+            "last_commit": "2026-09-10T21:27:59Z",
+            "open_issues": 319,
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32843,
+            "stars": 32863,
             "topics": [
               "github",
               "mcp",
@@ -280,10 +280,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T01:42:26Z",
-            "open_issues": 506,
+            "open_issues": 509,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90209,
+            "stars": 90239,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -300,11 +300,11 @@
             "id": 826168160,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T11:42:57Z",
+            "last_commit": "2026-09-11T09:37:49Z",
             "open_issues": 899,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 66240,
+            "stars": 66269,
             "topics": [
               "ai",
               "convert",
@@ -341,7 +341,7 @@
             "open_issues": 199,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17634,
+            "stars": 17636,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -362,7 +362,7 @@
             "open_issues": 199,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17634,
+            "stars": 17636,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -383,7 +383,7 @@
             "open_issues": 199,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17634,
+            "stars": 17636,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -404,7 +404,7 @@
             "open_issues": 199,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17634,
+            "stars": 17636,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -460,10 +460,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T09:39:35Z",
-            "open_issues": 206,
+            "open_issues": 207,
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2810,
+            "stars": 2816,
             "topics": [
               "ai",
               "apps",
@@ -564,11 +564,11 @@
             "id": 1232304276,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T10:35:43Z",
+            "last_commit": "2026-09-11T10:35:40Z",
             "open_issues": 0,
             "owner": "silly-geese",
             "repo": "estonian-mcp",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "chatgpt",
               "claude",
@@ -616,7 +616,7 @@
             "open_issues": 1,
             "owner": "spranab",
             "repo": "saga-mcp",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "agent-tools",
               "ai-agents",
@@ -653,11 +653,11 @@
             "id": 793375104,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T06:46:34Z",
+            "last_commit": "2026-09-11T01:23:03Z",
             "open_issues": 10,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 136908,
+            "stars": 137131,
             "topics": [
               "agents",
               "llms",
@@ -680,10 +680,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-08T13:25:58Z",
-            "open_issues": 2303,
+            "open_issues": 2357,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 94736,
+            "stars": 94794,
             "topics": [
               "ai",
               "mcp"
@@ -707,7 +707,7 @@
             "open_issues": 5,
             "owner": "rdmgator12",
             "repo": "awesome-chatgpt-apps",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "apps-sdk",
               "awesome",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:11:39.375Z",
+    "last_updated": "2026-09-11T12:10:06.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 1,625 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 72 held pending vendor verification, with per-entry descriptions and use cases.",
@@ -737,7 +737,7 @@
       "open_issues": 4,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 111,
+      "stars": 112,
       "topics": [
         "anthropic",
         "awesome",
