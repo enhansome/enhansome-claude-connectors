@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "160 connectors.",
+      "description": "254 connectors.",
       "items": [
         {
           "children": [
@@ -35,7 +35,7 @@
       "title": "Data and Analytics"
     },
     {
-      "description": "62 connectors.",
+      "description": "93 connectors.",
       "items": [
         {
           "node_type": "item",
@@ -66,7 +66,7 @@
       "title": "Design and Creative"
     },
     {
-      "description": "11 connectors.",
+      "description": "14 connectors.",
       "items": [
         {
           "node_type": "item",
@@ -80,11 +80,11 @@
             "id": 898345892,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T08:28:38Z",
-            "open_issues": 241,
+            "last_commit": "2026-09-15T06:53:34Z",
+            "open_issues": 244,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9572,
+            "stars": 9590,
             "topics": [
               "agent",
               "ai",
@@ -111,11 +111,11 @@
             "id": 982517950,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:56:22Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-14T16:36:50Z",
+            "open_issues": 22,
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 6998,
+            "stars": 7005,
             "topics": [
               "ai",
               "desktop",
@@ -169,7 +169,7 @@
             "open_issues": 2,
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "computer-use",
               "macos",
@@ -177,37 +177,64 @@
             ]
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Brave (AppleScript)",
+          "description": "Controls Brave Browser tabs, windows, and navigation and reads page content through Brave's AppleScript API. Use case: Opening a set of reference pages for a task, pulling the text of the current page into notes, closing tabs left from an earlier session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1009424425,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-07-22T17:27:27Z",
+            "open_issues": 0,
+            "owner": "TariqAlagha",
+            "repo": "brave-browser-control",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-09-15T12:37:46.462Z"
         }
       ],
       "title": "Desktop Automation"
     },
     {
-      "description": "76 connectors.",
+      "description": "117 connectors.",
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub MCP",
-          "description": "The official GitHub MCP server. Use case: Repo and issue management, PR workflows, code search, CI/CD automation on GitHub.",
+          "title": "Cucumber Studio MCP",
+          "description": "Retrieves Cucumber Studio test scenarios, reusable action words, test runs, and project information for browsing and execution monitoring. Use case: Checking which scenarios failed in the last run, looking up the action words a feature reuses, listing the scenarios attached to a project.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "GitHub's official MCP Server",
+            "description": "MCP Server for Cucumber Studio",
             "homepage": null,
-            "id": 942771284,
-            "language": "Go",
+            "id": 1002891046,
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:27:59Z",
-            "open_issues": 318,
-            "owner": "github",
-            "repo": "github-mcp-server",
-            "stars": 32923,
+            "last_commit": "2026-03-28T06:05:36Z",
+            "open_issues": 1,
+            "owner": "HeroSizy",
+            "repo": "cucumberstudio-mcp",
+            "stars": 21,
             "topics": [
-              "github",
+              "cucumber",
+              "cucumberstudio",
+              "gherkin",
               "mcp",
-              "mcp-server"
+              "mcp-server",
+              "modelcontextprotocol",
+              "studio",
+              "test",
+              "test-automation"
             ]
           },
-          "first_seen": "2026-08-28T19:23:51.520Z"
+          "first_seen": "2026-09-15T12:37:46.462Z"
         },
         {
           "node_type": "item",
@@ -265,7 +292,7 @@
       "title": "Development Tools"
     },
     {
-      "description": "51 connectors.",
+      "description": "71 connectors.",
       "items": [
         {
           "node_type": "item",
@@ -280,10 +307,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T01:42:26Z",
-            "open_issues": 521,
+            "open_issues": 533,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90314,
+            "stars": 90354,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -300,11 +327,11 @@
             "id": 826168160,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T10:06:55Z",
-            "open_issues": 913,
+            "last_commit": "2026-09-15T12:24:26Z",
+            "open_issues": 914,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 66393,
+            "stars": 66439,
             "topics": [
               "ai",
               "convert",
@@ -341,7 +368,7 @@
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17653,
+            "stars": 17663,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -362,7 +389,7 @@
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17653,
+            "stars": 17663,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -383,7 +410,7 @@
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17653,
+            "stars": 17663,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -404,7 +431,7 @@
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17653,
+            "stars": 17663,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -421,7 +448,7 @@
             "id": 1009311431,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T13:54:04Z",
+            "last_commit": "2026-09-14T13:56:35Z",
             "open_issues": 15,
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
@@ -445,7 +472,7 @@
       "title": "Documents and Files"
     },
     {
-      "description": "14 connectors.",
+      "description": "24 connectors.",
       "items": [
         {
           "node_type": "item",
@@ -460,10 +487,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T09:39:35Z",
-            "open_issues": 206,
+            "open_issues": 207,
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2828,
+            "stars": 2834,
             "topics": [
               "ai",
               "apps",
@@ -479,7 +506,7 @@
       "title": "Entertainment"
     },
     {
-      "description": "199 connectors.",
+      "description": "259 connectors.",
       "items": [
         {
           "children": [
@@ -523,7 +550,7 @@
       "title": "Finance and Trading"
     },
     {
-      "description": "54 connectors.",
+      "description": "61 connectors.",
       "items": [
         {
           "node_type": "item",
@@ -548,196 +575,22 @@
         }
       ],
       "title": "Healthcare and Life Sciences"
-    },
-    {
-      "description": "95 connectors.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "estonian",
-          "description": "Offline Estonian-language toolkit exposing spell-check, morphology, synonym, and style-checking tools so an AI agent writes more accurate Estonian. Use case: Proofread and spell-check an Estonian-language email draft before sending it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Better Estonian from your AI agent. Offline MCP server (no third-party calls) wrapping EstNLTK, EKI Reeglid + Riigi Teataja. 26 read-only tools: spelling, morphology, orthography, kantseliit, legal. Claude, ChatGPT, Codex: one click from Anthropic's directory or a URL. Self-host behind nginx. 99.3% first-form over 14 cases, 100% EKI-adjudicated.",
-            "homepage": "https://smithery.ai/servers/silly-geese/estonian-mcp",
-            "id": 1232304276,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-14T11:46:36Z",
-            "open_issues": 0,
-            "owner": "silly-geese",
-            "repo": "estonian-mcp",
-            "stars": 21,
-            "topics": [
-              "chatgpt",
-              "claude",
-              "cowork",
-              "docker",
-              "eki",
-              "estnltk",
-              "estonian",
-              "fasttext",
-              "fly-io",
-              "mcp",
-              "model-context-protocol",
-              "morphological-analysis",
-              "nlp",
-              "orthography",
-              "proofreading",
-              "remote-mcp",
-              "self-hosted",
-              "smithery",
-              "spell-check",
-              "wordnet"
-            ]
-          },
-          "first_seen": "2026-08-28T19:23:51.520Z"
-        }
-      ],
-      "title": "Productivity"
-    },
-    {
-      "description": "53 connectors.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Saga — Project Tracker for AI Agents",
-          "description": "Jira-like project tracker for AI agents. Use case: Per-project task hierarchy and activity logging so agents keep track of multi-step work.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Your agent loses the plan between sessions, so saga-mcp gives it a SQLite-backed tracker for projects, epics, tasks, subtasks, dependencies, and notes: 33 MCP tools, an activity log, and a one-call dashboard, with no accounts and no external services.",
-            "homepage": "https://www.npmjs.com/package/saga-mcp",
-            "id": 1163521275,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-09T00:47:16Z",
-            "open_issues": 2,
-            "owner": "spranab",
-            "repo": "saga-mcp",
-            "stars": 36,
-            "topics": [
-              "agent-tools",
-              "ai-agents",
-              "claude",
-              "claude-code",
-              "issue-tracker",
-              "jira-alternative",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol",
-              "project-management",
-              "sqlite",
-              "task-tracker",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T19:23:51.520Z"
-        }
-      ],
-      "title": "Project Management"
-    },
-    {
-      "description": "To the extent possible under law, Ralph Martello has waived all copyright and related or neighboring rights to this work.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-llm-apps",
-          "description": "LLM-powered applications across providers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-            "homepage": "https://www.theunwindai.com",
-            "id": 793375104,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-14T08:06:38Z",
-            "open_issues": 12,
-            "owner": "Shubhamsaboo",
-            "repo": "awesome-llm-apps",
-            "stars": 138092,
-            "topics": [
-              "agents",
-              "llms",
-              "python",
-              "rag"
-            ]
-          },
-          "first_seen": "2026-08-28T19:23:51.520Z"
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-mcp-servers",
-          "description": "Model Context Protocol servers powering many of the connectors above.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of MCP servers.",
-            "homepage": "https://glama.ai/mcp/servers",
-            "id": 896335270,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-09-13T07:49:46Z",
-            "open_issues": 2432,
-            "owner": "punkpeye",
-            "repo": "awesome-mcp-servers",
-            "stars": 94966,
-            "topics": [
-              "ai",
-              "mcp"
-            ]
-          },
-          "first_seen": "2026-08-28T19:23:51.520Z"
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-chatgpt-apps",
-          "description": "Companion list cataloging apps in the ChatGPT directory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive directory of every app in OpenAI's official ChatGPT Apps Directory — 330 verified Apps SDK / MCP integrations, organized by category with descriptions and use cases.",
-            "homepage": null,
-            "id": 1228889804,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-07-02T16:24:31Z",
-            "open_issues": 5,
-            "owner": "rdmgator12",
-            "repo": "awesome-chatgpt-apps",
-            "stars": 14,
-            "topics": [
-              "apps-sdk",
-              "awesome",
-              "awesome-list",
-              "chatgpt",
-              "chatgpt-apps",
-              "mcp",
-              "openai"
-            ]
-          },
-          "first_seen": "2026-08-28T19:23:51.520Z"
-        }
-      ],
-      "title": "Related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T13:55:41.055Z",
+    "last_updated": "2026-09-15T12:37:46.462Z",
     "original_repository_info": {
       "archived": false,
-      "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 1,625 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 72 held pending vendor verification, with per-entry descriptions and use cases.",
+      "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 2,562 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 39 held pending vendor verification, with per-entry descriptions and use cases.",
       "homepage": null,
       "id": 1209861758,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T13:50:28Z",
+      "last_commit": "2026-09-14T14:16:15Z",
       "open_issues": 1,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 113,
+      "stars": 114,
       "topics": [
         "anthropic",
         "awesome",
@@ -747,7 +600,7 @@
         "mcp"
       ]
     },
-    "original_repository_sha": "9bc4362b0c0609fcdc57efaf00dfb780d255978f",
+    "original_repository_sha": "e4aaf8bf96592a95789d65dd946a8f32957a5e12",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
     "enhanced_repository_description": null,
     "title": "Awesome List for Claude Connectors with stars"
