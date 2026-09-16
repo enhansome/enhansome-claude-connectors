@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "jerichosequitin",
                 "repo": "metabase-mcp",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:51.520Z"
@@ -80,11 +80,11 @@
             "id": 898345892,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T06:53:34Z",
-            "open_issues": 244,
+            "last_commit": "2026-09-16T08:21:31Z",
+            "open_issues": 247,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9590,
+            "stars": 9606,
             "topics": [
               "agent",
               "ai",
@@ -115,7 +115,7 @@
             "open_issues": 22,
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 7005,
+            "stars": 7020,
             "topics": [
               "ai",
               "desktop",
@@ -143,7 +143,7 @@
             "open_issues": 10,
             "owner": "CursorTouch",
             "repo": "Android-MCP",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "ai",
               "android",
@@ -169,7 +169,7 @@
             "open_issues": 2,
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "computer-use",
               "macos",
@@ -307,10 +307,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T01:42:26Z",
-            "open_issues": 533,
+            "open_issues": 537,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90354,
+            "stars": 90375,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -327,11 +327,11 @@
             "id": 826168160,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T12:24:26Z",
-            "open_issues": 914,
+            "last_commit": "2026-09-16T12:28:03Z",
+            "open_issues": 919,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 66439,
+            "stars": 66487,
             "topics": [
               "ai",
               "convert",
@@ -364,11 +364,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:35:56Z",
+            "last_commit": "2026-09-15T23:32:44Z",
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17663,
+            "stars": 17680,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -385,11 +385,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:35:56Z",
+            "last_commit": "2026-09-15T23:32:44Z",
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17663,
+            "stars": 17680,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -406,11 +406,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:35:56Z",
+            "last_commit": "2026-09-15T23:32:44Z",
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17663,
+            "stars": 17680,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -427,11 +427,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:35:56Z",
+            "last_commit": "2026-09-15T23:32:44Z",
             "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17663,
+            "stars": 17680,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -452,7 +452,7 @@
             "open_issues": 15,
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "claude",
               "claude-desktop",
@@ -490,7 +490,7 @@
             "open_issues": 207,
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2834,
+            "stars": 2839,
             "topics": [
               "ai",
               "apps",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:37:46.462Z",
+    "last_updated": "2026-09-16T12:33:52.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 2,562 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 39 held pending vendor verification, with per-entry descriptions and use cases.",
@@ -586,11 +586,11 @@
       "id": 1209861758,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T14:16:15Z",
+      "last_commit": "2026-09-15T16:01:39Z",
       "open_issues": 1,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 114,
+      "stars": 116,
       "topics": [
         "anthropic",
         "awesome",
@@ -600,7 +600,7 @@
         "mcp"
       ]
     },
-    "original_repository_sha": "e4aaf8bf96592a95789d65dd946a8f32957a5e12",
+    "original_repository_sha": "4362441d97dd7b1f24be91ec114e52f7d49a3612",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
     "enhanced_repository_description": null,
     "title": "Awesome List for Claude Connectors with stars"
