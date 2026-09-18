@@ -80,11 +80,11 @@
             "id": 898345892,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T11:08:47Z",
-            "open_issues": 248,
+            "last_commit": "2026-09-17T13:21:20Z",
+            "open_issues": 251,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9624,
+            "stars": 9634,
             "topics": [
               "agent",
               "ai",
@@ -115,7 +115,7 @@
             "open_issues": 26,
             "owner": "CursorTouch",
             "repo": "Windows-MCP",
-            "stars": 7026,
+            "stars": 7037,
             "topics": [
               "ai",
               "desktop",
@@ -143,7 +143,7 @@
             "open_issues": 10,
             "owner": "CursorTouch",
             "repo": "Android-MCP",
-            "stars": 851,
+            "stars": 852,
             "topics": [
               "ai",
               "android",
@@ -169,7 +169,7 @@
             "open_issues": 2,
             "owner": "CursorTouch",
             "repo": "MacOS-MCP",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "computer-use",
               "macos",
@@ -307,10 +307,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T01:42:26Z",
-            "open_issues": 541,
+            "open_issues": 547,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90414,
+            "stars": 90436,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -327,11 +327,11 @@
             "id": 826168160,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T11:18:55Z",
-            "open_issues": 913,
+            "last_commit": "2026-09-18T09:18:32Z",
+            "open_issues": 914,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 66536,
+            "stars": 66622,
             "topics": [
               "ai",
               "convert",
@@ -364,11 +364,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:48:00Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-17T15:18:01Z",
+            "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17685,
+            "stars": 17691,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -385,11 +385,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:48:00Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-17T15:18:01Z",
+            "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17685,
+            "stars": 17691,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -406,11 +406,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:48:00Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-17T15:18:01Z",
+            "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17685,
+            "stars": 17691,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -427,11 +427,11 @@
             "id": 849553306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:48:00Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-17T15:18:01Z",
+            "open_issues": 218,
             "owner": "anthropics",
             "repo": "claude-quickstarts",
-            "stars": 17685,
+            "stars": 17691,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:51.520Z"
@@ -452,7 +452,7 @@
             "open_issues": 15,
             "owner": "Open-Document-Alliance",
             "repo": "PDF-Tools",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "claude",
               "claude-desktop",
@@ -487,10 +487,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T21:21:12Z",
-            "open_issues": 207,
+            "open_issues": 211,
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2845,
+            "stars": 2851,
             "topics": [
               "ai",
               "apps",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:33:45.685Z",
+    "last_updated": "2026-09-18T12:12:05.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 2,562 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 39 held pending vendor verification, with per-entry descriptions and use cases.",
@@ -590,7 +590,7 @@
       "open_issues": 1,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 118,
+      "stars": 119,
       "topics": [
         "anthropic",
         "awesome",
