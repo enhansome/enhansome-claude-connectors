@@ -493,7 +493,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ### Business Intelligence and Dashboards
 
-* [Metabase (Unofficial — Community)](https://github.com/jerichosequitin/metabase-mcp) ⭐ 89 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Community MCP server for Metabase BI data access. *Use case: Run SQL queries, execute saved cards, browse dashboards and databases, optimize token usage with caching.*
+* [Metabase (Unofficial — Community)](https://github.com/jerichosequitin/metabase-mcp) ⭐ 89 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-22 - Community MCP server for Metabase BI data access. *Use case: Run SQL queries, execute saved cards, browse dashboards and databases, optimize token usage with caching.*
 * [Basedash](https://www.basedash.com) **`C`** - Queries governed company data through Basedash, lists accessible data sources, and creates, edits, lists and retrieves dashboards and charts under workspace permissions. *Use case: Asking a live database how many accounts churned last month, building a chart from that answer, reopening an existing dashboard to update it.*
 * [BOCP - Business Online Control Panel](https://www.bocp.ro) **`C`** - Reads precomputed business indicators from a BOCP ERP account, covering sales, invoicing, stock, and operations, for period comparisons and trend questions. *Use case: Comparing last month's sales with the month before, charting daily invoiced value over 30 days, listing which indicators the account exposes.*
 * [Credible](https://credibledata.com) **`C`** - Retrieves governed metric definitions from a Credible model and runs live Malloy queries against connected warehouses, returning results with charts. *Use case: Asking for last quarter's revenue using the team's own definition, breaking active customers down by segment, charting a trend for a stakeholder update.*
@@ -871,10 +871,10 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 14 connectors.
 
-* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,700 | 🐛 265 | 🌐 TypeScript | 📅 2026-09-22 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
-* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 7,077 | 🐛 26 | 🌐 Python | 📅 2026-09-21 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
-* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 861 | 🐛 10 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
-* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 185 | 🐛 2 | 🌐 Python | 📅 2026-09-09 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
+* [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,718 | 🐛 270 | 🌐 TypeScript | 📅 2026-09-23 - Local machine automation. *Use case: File system operations, process management, system-level tasks.*
+* [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) ⭐ 7,122 | 🐛 27 | 🌐 Python | 📅 2026-09-21 - Windows OS automation and system control. *Use case: Windows application automation, file management, system administration tasks.*
+* [Android-MCP](https://github.com/CursorTouch/Android-MCP) ⭐ 866 | 🐛 10 | 🌐 Python | 📅 2026-07-01 - Control Android devices. *Use case: Android app testing, mobile automation workflows, device management.*
+* [MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) ⭐ 186 | 🐛 2 | 🌐 Python | 📅 2026-09-09 - Lightweight macOS desktop interaction. *Use case: Computer-use automation on macOS, app and window control, system-level Mac tasks.*
 * [Brave (AppleScript)](https://github.com/TariqAlagha/brave-browser-control) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-22 - Controls Brave Browser tabs, windows, and navigation and reads page content through Brave's AppleScript API. *Use case: Opening a set of reference pages for a task, pulling the text of the current page into notes, closing tabs left from an earlier session.*
 * [api.agi.tech](https://theagi.company/blog/agi-mcp-for-every-app-on-your-phone) **`C`** - Gives an agent tap-and-type control of an Android phone's screen, working across any installed app without per-app integrations. *Use case: Running a recurring task in a phone app overnight, testing an Android build across screen sizes, driving an app that exposes no API.*
 * [Control Chrome](https://chromedevtools.github.io/devtools-protocol/) - Chrome tab and navigation control. *Use case: Browser automation, tab management, web scraping from Chrome.*
@@ -1012,13 +1012,13 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 71 connectors.
 
-* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 90,545 | 🐛 547 | 🌐 TypeScript | 📅 2026-09-03 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
-* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 67,600 | 🐛 931 | 🌐 Python | 📅 2026-09-22 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
-* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,718 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-21 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
-* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,718 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-21 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
-* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,718 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-21 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
-* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,718 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-21 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
-* [PDF Tools - Fill, Sign, Merge, Split, Extract](https://github.com/Open-Document-Alliance/PDF-Tools) ⭐ 157 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-22 - Local PDF workflow extension for Claude Desktop. *Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.*
+* [Filesystem](https://github.com/modelcontextprotocol/servers) ⭐ 90,560 | 🐛 548 | 🌐 TypeScript | 📅 2026-09-22 - Local filesystem read and write. *Use case: File management, reading and writing files on your machine. Note: Claude Code has this built in.*
+* [Docling MCP](https://github.com/DS4SD/docling) ⭐ 67,675 | 🐛 927 | 🌐 Python | 📅 2026-09-23 - Document processing and extraction. *Use case: Parsing PDFs, extracting structured data from documents.*
+* [PDF Viewer](https://github.com/anthropics/anthropic-quickstarts#pdf-viewer) ⭐ 17,722 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-23 **`A`** - Render PDFs from URLs. *Use case: Quick preview of PDFs from arxiv.org and other URL-based sources.*
+* [pdf-viewer](https://github.com/anthropics/anthropic-quickstarts) ⭐ 17,722 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-23 **`A`** - Read and interact with PDFs. *Use case: Extracting text from PDFs, answering questions about PDF content.*
+* [PowerPoint (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#powerpoint) ⭐ 17,722 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-23 **`A`** - Control PowerPoint with AppleScript. *Use case: Creating and modifying presentations programmatically on macOS.*
+* [Word (By Anthropic)](https://github.com/anthropics/anthropic-quickstarts#word) ⭐ 17,722 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-23 **`A`** - Control Microsoft Word with AppleScript. *Use case: Creating and editing Word documents programmatically on macOS. Useful for formatted reports and documents.*
+* [PDF Tools - Fill, Sign, Merge, Split, Extract](https://github.com/Open-Document-Alliance/PDF-Tools) ⭐ 157 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-23 - Local PDF workflow extension for Claude Desktop. *Use case: Fill and sign PDF forms, merge and split files, fetch PDFs from URLs, extract structured data locally without uploading.*
 * [AgentGrid.io](https://agentgrid.io) **`C`** - Creates, uploads, updates, and shares interactive artifacts such as documents, designs, prototypes, and presentations in shared workspaces with per-user permissions. *Use case: Publishing a prototype for a teammate to review, grouping related design files into one workspace, updating a presentation an agent generated earlier.*
 * [Anchor](https://anchor.cc) **`C`** - Creates and organizes shared files and folders in HTML, Markdown, JSON, and CSV, and designs typed tables queried with SQL, with versioning and permissions handled. *Use case: Saving a generated report as a shareable HTML file, filing drafts into a team folder, querying a tracked table of results with SQL.*
 * [Archiveye](https://www.puradigital.it) **`C`** - Searches an Archiveye knowledge base by semantic or full-text retrieval, inspects document metadata, queries tabular datasets with read-only SQL, and loads full documents. *Use case: Finding a clause across an indexed collection, checking a document's metadata before citing it, running a read-only query over a tabular dataset.*
@@ -1126,7 +1126,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 24 connectors.
 
-* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,863 | 🐛 213 | 🌐 TypeScript | 📅 2026-09-16 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
+* [Play Sheet Music](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/sheet-music-server) ⭐ 2,865 | 🐛 217 | 🌐 TypeScript | 📅 2026-09-16 - Generate and play sheet music. *Use case: Music composition, MIDI playback, music theory exploration.*
 * [Ableton Knowledge](https://www.ableton.com) - Ask Claude about Ableton products. *Use case: Music production help, Ableton Live and Push reference lookups, workflow guidance for producers.*
 * [Archivist AI MCP](https://www.myarchivist.ai) **`C`** - Reads and edits tabletop RPG campaign data in Archivist: sessions, transcripts, handouts, NPCs, locations, factions, items, quests, journals, timelines, and images. *Use case: Recapping last session for a player who missed it, adding an NPC the party just met, checking which quests are still open before game night.*
 * [Artist Growth](https://www.artistgrowth.com) **`C`** - Music Ops Built for AI. *Use case: Handling a routine music operations task through an AI-driven workflow.*
@@ -2026,4 +2026,4 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
