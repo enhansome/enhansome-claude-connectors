@@ -15,11 +15,11 @@
             "id": 793375104,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T02:36:57Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-26T08:27:01Z",
+            "open_issues": 14,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 139717,
+            "stars": 139818,
             "topics": [
               "agents",
               "llms",
@@ -42,10 +42,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-23T06:38:45Z",
-            "open_issues": 2362,
+            "open_issues": 2417,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 95510,
+            "stars": 95538,
             "topics": [
               "ai",
               "mcp"
@@ -87,7 +87,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:43:25.108Z",
+    "last_updated": "2026-09-26T12:11:20.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 2,982 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 39 held pending vendor verification, with per-entry descriptions and use cases.",
@@ -95,11 +95,11 @@
       "id": 1209861758,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-25T12:20:26Z",
+      "last_commit": "2026-09-25T18:13:35Z",
       "open_issues": 1,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 124,
+      "stars": 125,
       "topics": [
         "anthropic",
         "awesome",
@@ -109,7 +109,7 @@
         "mcp"
       ]
     },
-    "original_repository_sha": "5c9d5090d3b70ec46e52eeb2ce3ed8c0fc2d3e49",
+    "original_repository_sha": "45d8b71b0502b5be7acd52c05702de3ff1f3dea3",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
     "enhanced_repository_description": null,
     "title": "Awesome List for Claude Connectors with stars"
