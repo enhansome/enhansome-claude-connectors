@@ -110,8 +110,8 @@ Every link on the category pages has been checked against the live page — a UR
 
 ## Related
 
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,844 | 🐛 27 | 🌐 Python | 📅 2026-09-30 - LLM-powered applications across providers.
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,864 | 🐛 3,013 | 📅 2026-09-27 - Model Context Protocol servers powering many of the connectors above.
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,855 | 🐛 27 | 🌐 Python | 📅 2026-09-30 - LLM-powered applications across providers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,868 | 🐛 3,023 | 📅 2026-09-27 - Model Context Protocol servers powering many of the connectors above.
 * [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 15 | 🐛 8 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
 
 ***
