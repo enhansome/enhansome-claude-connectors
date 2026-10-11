@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T20:31:22Z",
-            "open_issues": 27,
+            "open_issues": 30,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 141071,
+            "stars": 141237,
             "topics": [
               "agents",
               "llms",
@@ -42,10 +42,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-09T19:23:13Z",
-            "open_issues": 2597,
+            "open_issues": 2640,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 96031,
+            "stars": 96108,
             "topics": [
               "ai",
               "mcp"
@@ -87,7 +87,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:34:26.969Z",
+    "last_updated": "2026-10-11T13:57:06.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 4,675 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 43 held pending vendor verification, with per-entry descriptions and use cases.",
