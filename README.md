@@ -135,8 +135,8 @@ Every link on the category pages has been checked against the live page — a UR
 
 ## Related
 
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 142,634 | 🐛 15 | 🌐 Python | 📅 2026-10-22 - LLM-powered applications across providers.
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,742 | 🐛 3,422 | 📅 2026-10-18 - Model Context Protocol servers powering many of the connectors above.
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 142,781 | 🐛 19 | 🌐 Python | 📅 2026-10-22 - LLM-powered applications across providers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,785 | 🐛 3,329 | 📅 2026-10-23 - Model Context Protocol servers powering many of the connectors above.
 * [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 17 | 🐛 13 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
 
 ***
@@ -147,4 +147,4 @@ To the extent possible under law, [Ralph Martello](https://github.com/rdmgator12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
