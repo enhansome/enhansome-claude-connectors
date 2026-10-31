@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T19:10:10Z",
-            "open_issues": 28,
+            "open_issues": 31,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 143477,
+            "stars": 143561,
             "topics": [
               "agents",
               "llms",
@@ -42,10 +42,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-23T18:57:44Z",
-            "open_issues": 3800,
+            "open_issues": 3879,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 97074,
+            "stars": 97111,
             "topics": [
               "ai",
               "mcp"
@@ -66,7 +66,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-02T16:24:31Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "rdmgator12",
             "repo": "awesome-chatgpt-apps",
             "stars": 17,
@@ -87,16 +87,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:01:51.160Z",
+    "last_updated": "2026-10-31T13:35:19.861Z",
     "original_repository_info": {
       "archived": false,
-      "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 6,368 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 51 held pending vendor verification, with per-entry descriptions and use cases.",
+      "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 8,046 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 57 held pending vendor verification, with per-entry descriptions and use cases.",
       "homepage": null,
       "id": 1209861758,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-19T19:02:18Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-30T15:26:44Z",
+      "open_issues": 1,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
       "stars": 153,
@@ -109,7 +109,7 @@
         "mcp"
       ]
     },
-    "original_repository_sha": "9b5f580c0a9c1f7e6c5b2683ed48c3bc9d2a7dda",
+    "original_repository_sha": "d98abf6a74bbd10c0943e3a4867cea51afc84aa8",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
     "enhanced_repository_description": null,
     "title": "Awesome List for Claude Connectors with stars"
