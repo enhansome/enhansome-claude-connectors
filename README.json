@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T05:25:32Z",
-            "open_issues": 15,
+            "open_issues": 18,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 145513,
+            "stars": 145587,
             "topics": [
               "agents",
               "llms",
@@ -41,11 +41,11 @@
             "id": 896335270,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-23T15:59:09Z",
-            "open_issues": 5229,
+            "last_commit": "2026-11-24T08:42:36Z",
+            "open_issues": 5306,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 98425,
+            "stars": 98460,
             "topics": [
               "ai",
               "mcp"
@@ -66,7 +66,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-02T16:24:31Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "rdmgator12",
             "repo": "awesome-chatgpt-apps",
             "stars": 18,
@@ -87,7 +87,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:10:32.095Z",
+    "last_updated": "2026-11-24T18:49:38.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive directory of Anthropic's Claude Connectors catalog: 12,351 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 129 held pending vendor verification, with per-entry descriptions and use cases.",
@@ -95,11 +95,11 @@
       "id": 1209861758,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-23T02:19:29Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-24T18:20:49Z",
+      "open_issues": 0,
       "owner": "rdmgator12",
       "repo": "awesome-claude-connectors",
-      "stars": 170,
+      "stars": 171,
       "topics": [
         "anthropic",
         "awesome",
@@ -109,7 +109,7 @@
         "mcp"
       ]
     },
-    "original_repository_sha": "418f8e5bbdc6444b11364eac2034dcacfe87474d",
+    "original_repository_sha": "48d86878e917bd756b7c59593ee225acf29e10b7",
     "enhanced_repository": "enhansome/enhansome-claude-connectors",
     "enhanced_repository_description": null,
     "title": "Awesome List for Claude Connectors with stars"
