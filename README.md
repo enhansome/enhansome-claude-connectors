@@ -42,7 +42,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Categories
 
-Each category has its own page; the list outgrew what GitHub will render as a single file.
+Each category has its own page; the list outgrew what GitHub will render as a single file. The largest categories are split again, into one page per subcategory.
 
 | Category                                                                                     | Connectors |
 | -------------------------------------------------------------------------------------------- | ---------- |
@@ -225,8 +225,8 @@ Every link on the category pages has been checked against the live page — a UR
 
 ## Related
 
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 145,587 | 🐛 18 | 🌐 Python | 📅 2026-11-18 - LLM-powered applications across providers.
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 98,460 | 🐛 5,306 | 📅 2026-11-24 - Model Context Protocol servers powering many of the connectors above.
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 145,679 | 🐛 19 | 🌐 Python | 📅 2026-11-18 - LLM-powered applications across providers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 98,497 | 🐛 5,415 | 📅 2026-11-25 - Model Context Protocol servers powering many of the connectors above.
 * [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 18 | 🐛 27 | 📅 2026-07-02 - Companion list cataloging apps in the ChatGPT directory.
 
 ***
@@ -237,4 +237,4 @@ To the extent possible under law, [Ralph Martello](https://github.com/rdmgator12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
